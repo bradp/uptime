@@ -1,6 +1,10 @@
 owner: bradp
 repo: uptime
-
+user-agent: bradp
+assignees:
+assignees:
+  - bradp
+  
 sites:
   - name: BradParbs.com
     url: https://bradparbs.com
@@ -32,8 +36,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-assignees:
-  - bradp
-
-user-agent: bradp
