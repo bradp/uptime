@@ -1,9 +1,7 @@
 owner: bradp
 repo: uptime
 user-agent: bradp
-assignees:
-  - bradp
-  
+
 sites:
   - name: BradParbs.com
     url: https://bradparbs.com
