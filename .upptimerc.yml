@@ -1,7 +1,9 @@
 owner: bradp
 repo: uptime
 user-agent: bradp
-
+assignees:
+  - bradp
+  
 sites:
   - name: BradParbs.com
     url: https://bradparbs.com
@@ -15,8 +17,6 @@ sites:
     url: https://sax.cat
   - name: butts.tech
     url: https://butts.tech
-  - name: 10upsidedown.com
-    url: https://10upsidedown.com
   - name: fauxio
     url: https://faux.io
   - name: brad.cash
