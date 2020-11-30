@@ -26,8 +26,8 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
-  introTitle: "Uptime - powered by GitHub."
-  introMessage: "Status page for my sites (@bradp)"
+  introTitle: "Uptime monitor for some of Brad Parbs's projects."
+  introMessage: "📈️ 💻️ 📉️"
   navbar:
     - title: Status
       href: /
