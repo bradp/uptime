@@ -29,7 +29,5 @@ status-website:
   introTitle: "Brad Parbs Uptime Monitor"
   introMessage: "📈️ 💻️ 📉️"
   navbar:
-    - title: Status
-      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
