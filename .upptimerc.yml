@@ -23,7 +23,7 @@ sites:
     url: https://brad.cash
 
 status-website:
-  baseUrl: /uptime
+  cname: status.brrad.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
   introTitle: "Brad Parbs Uptime Monitor"
