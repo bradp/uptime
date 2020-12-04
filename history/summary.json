@@ -5,7 +5,15 @@
     "slug": "brad-parbs-com",
     "status": "up",
     "uptime": "100.00%",
-    "time": 144
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 144,
+    "timeDay": 150,
+    "timeWeek": 144,
+    "timeMonth": 144,
+    "timeYear": 144
   },
   {
     "name": "brrad.com",
@@ -13,7 +21,15 @@
     "slug": "brrad-com",
     "status": "up",
     "uptime": "100.00%",
-    "time": 194
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 191,
+    "timeDay": 135,
+    "timeWeek": 191,
+    "timeMonth": 191,
+    "timeYear": 191
   },
   {
     "name": "IsItSnowingInMilwaukee.com",
@@ -21,7 +37,15 @@
     "slug": "is-it-snowing-in-milwaukee-com",
     "status": "up",
     "uptime": "100.00%",
-    "time": 169
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 167,
+    "timeDay": 150,
+    "timeWeek": 167,
+    "timeMonth": 167,
+    "timeYear": 167
   },
   {
     "name": "gifsb.in",
@@ -29,7 +53,15 @@
     "slug": "gifsb-in",
     "status": "up",
     "uptime": "100.00%",
-    "time": 110
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 111,
+    "timeDay": 108,
+    "timeWeek": 111,
+    "timeMonth": 111,
+    "timeYear": 111
   },
   {
     "name": "sax.cat",
@@ -37,7 +69,15 @@
     "slug": "sax-cat",
     "status": "up",
     "uptime": "100.00%",
-    "time": 196
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 197,
+    "timeDay": 205,
+    "timeWeek": 197,
+    "timeMonth": 197,
+    "timeYear": 197
   },
   {
     "name": "butts.tech",
@@ -45,7 +85,15 @@
     "slug": "butts-tech",
     "status": "up",
     "uptime": "100.00%",
-    "time": 110
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 111,
+    "timeDay": 119,
+    "timeWeek": 111,
+    "timeMonth": 111,
+    "timeYear": 111
   },
   {
     "name": "fauxio",
@@ -53,14 +101,30 @@
     "slug": "fauxio",
     "status": "up",
     "uptime": "100.00%",
-    "time": 110
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 111,
+    "timeDay": 129,
+    "timeWeek": 111,
+    "timeMonth": 111,
+    "timeYear": 111
   },
   {
     "name": "brad.cash",
     "url": "https://brad.cash",
     "slug": "brad-cash",
     "status": "up",
-    "uptime": "99.63%",
-    "time": 89
+    "uptime": "99.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 94,
+    "timeDay": 73,
+    "timeWeek": 94,
+    "timeMonth": 94,
+    "timeYear": 94
   }
 ]
