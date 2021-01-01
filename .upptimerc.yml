@@ -21,6 +21,8 @@ sites:
     url: https://faux.io
   - name: brad.cash
     url: https://brad.cash
+  - name: pears.cloud
+    url: https://pears.cloud
 
 status-website:
   cname: status.brrad.com
