@@ -40,9 +40,9 @@
     "url": "https://isitsnowinginmilwaukee.com",
     "icon": "https://favicons.githubusercontent.com/isitsnowinginmilwaukee.com",
     "slug": "is-it-snowing-in-milwaukee-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 183,
     "timeMonth": 183,
     "timeYear": 175,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-25": 0
+    }
   },
   {
     "name": "gifsb.in",
