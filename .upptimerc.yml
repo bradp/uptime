@@ -23,6 +23,8 @@ sites:
     url: https://brad.cash
   - name: pears.cloud
     url: https://pears.cloud
+  - name: horror.watch
+    url: https://horror.watch
 
 status-website:
   cname: status.brrad.com
