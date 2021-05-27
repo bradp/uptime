@@ -25,6 +25,7 @@ sites:
     url: https://pears.cloud
   - name: horror.watch
     url: https://horror.watch
+    icon: https://horror.watch/favicon/favicon.ico
 
 status-website:
   cname: status.brrad.com
