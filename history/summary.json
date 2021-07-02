@@ -4,47 +4,51 @@
     "url": "https://bradparbs.com",
     "icon": "https://favicons.githubusercontent.com/bradparbs.com",
     "slug": "brad-parbs-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 140,
     "timeDay": 164,
     "timeWeek": 212,
     "timeMonth": 146,
     "timeYear": 140,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-02": 12
+    }
   },
   {
     "name": "brrad.com",
     "url": "https://brrad.com/w",
     "icon": "https://favicons.githubusercontent.com/brrad.com",
     "slug": "brrad-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 181,
     "timeDay": 224,
     "timeWeek": 270,
     "timeMonth": 187,
     "timeYear": 181,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-02": 10
+    }
   },
   {
     "name": "IsItSnowingInMilwaukee.com",
     "url": "https://isitsnowinginmilwaukee.com",
     "icon": "https://favicons.githubusercontent.com/isitsnowinginmilwaukee.com",
     "slug": "is-it-snowing-in-milwaukee-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 187,
     "timeDay": 283,
@@ -52,6 +56,7 @@
     "timeMonth": 142,
     "timeYear": 187,
     "dailyMinutesDown": {
+      "2021-07-02": 9,
       "2021-01-25": 49
     }
   },
@@ -60,82 +65,90 @@
     "url": "https://gifsb.in",
     "icon": "https://favicons.githubusercontent.com/gifsb.in",
     "slug": "gifsb-in",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 150,
     "timeDay": 192,
     "timeWeek": 244,
     "timeMonth": 158,
     "timeYear": 150,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-02": 7
+    }
   },
   {
     "name": "sax.cat",
     "url": "https://sax.cat",
     "icon": "https://favicons.githubusercontent.com/sax.cat",
     "slug": "sax-cat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 218,
     "timeDay": 241,
     "timeWeek": 228,
     "timeMonth": 208,
     "timeYear": 218,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-02": 6
+    }
   },
   {
     "name": "butts.tech",
     "url": "https://butts.tech",
     "icon": "https://favicons.githubusercontent.com/butts.tech",
     "slug": "butts-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 153,
     "timeDay": 182,
     "timeWeek": 146,
     "timeMonth": 147,
     "timeYear": 153,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-02": 4
+    }
   },
   {
     "name": "fauxio",
     "url": "https://faux.io",
     "icon": "https://favicons.githubusercontent.com/faux.io",
     "slug": "fauxio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 145,
     "timeDay": 156,
     "timeWeek": 204,
     "timeMonth": 145,
     "timeYear": 145,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-02": 3
+    }
   },
   {
     "name": "brad.cash",
     "url": "https://brad.cash",
     "icon": "https://favicons.githubusercontent.com/brad.cash",
     "slug": "brad-cash",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 136,
@@ -144,6 +157,7 @@
     "timeMonth": 127,
     "timeYear": 136,
     "dailyMinutesDown": {
+      "2021-07-02": 1,
       "2020-12-02": 16
     }
   },
@@ -172,9 +186,9 @@
     "url": "https://horror.watch",
     "icon": "https://horror.watch/favicon/favicon.ico",
     "slug": "horror-watch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -183,6 +197,8 @@
     "timeWeek": 213,
     "timeMonth": 320,
     "timeYear": 191,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-02": 0
+    }
   }
 ]
