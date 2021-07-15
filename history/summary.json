@@ -11,9 +11,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 139,
-    "timeDay": 102,
-    "timeWeek": 116,
-    "timeMonth": 145,
+    "timeDay": 101,
+    "timeWeek": 117,
+    "timeMonth": 143,
     "timeYear": 139,
     "dailyMinutesDown": {
       "2021-07-02": 28
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 196,
-    "timeDay": 94,
-    "timeWeek": 235,
-    "timeMonth": 296,
+    "timeDay": 135,
+    "timeWeek": 234,
+    "timeMonth": 295,
     "timeYear": 196,
     "dailyMinutesDown": {
       "2021-07-02": 18
@@ -51,9 +51,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 187,
-    "timeDay": 131,
-    "timeWeek": 235,
-    "timeMonth": 167,
+    "timeDay": 141,
+    "timeWeek": 231,
+    "timeMonth": 166,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2021-07-02": 17,
@@ -72,9 +72,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 72,
-    "timeWeek": 103,
-    "timeMonth": 145,
+    "timeDay": 137,
+    "timeWeek": 106,
+    "timeMonth": 146,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2021-07-02": 15
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 157,
-    "timeWeek": 171,
-    "timeMonth": 308,
-    "timeYear": 231,
+    "time": 230,
+    "timeDay": 139,
+    "timeWeek": 169,
+    "timeMonth": 306,
+    "timeYear": 230,
     "dailyMinutesDown": {}
   },
   {
@@ -110,7 +110,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 131,
+    "timeDay": 139,
     "timeWeek": 129,
     "timeMonth": 137,
     "timeYear": 152,
@@ -128,8 +128,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 62,
-    "timeWeek": 84,
+    "timeDay": 68,
+    "timeWeek": 81,
     "timeMonth": 126,
     "timeYear": 142,
     "dailyMinutesDown": {}
@@ -140,15 +140,15 @@
     "icon": "https://favicons.githubusercontent.com/brad.cash",
     "slug": "brad-cash",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 183,
-    "timeWeek": 118,
-    "timeMonth": 119,
+    "timeDay": 58,
+    "timeWeek": 111,
+    "timeMonth": 118,
     "timeYear": 135,
     "dailyMinutesDown": {
       "2020-12-02": 16
@@ -165,11 +165,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 424,
-    "timeDay": 6143,
-    "timeWeek": 2190,
-    "timeMonth": 1410,
-    "timeYear": 424,
+    "time": 423,
+    "timeDay": 190,
+    "timeWeek": 2184,
+    "timeMonth": 1411,
+    "timeYear": 423,
     "dailyMinutesDown": {
       "2021-01-07": 25
     }
@@ -185,11 +185,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 185,
-    "timeDay": 108,
-    "timeWeek": 93,
-    "timeMonth": 302,
-    "timeYear": 185,
+    "time": 184,
+    "timeDay": 125,
+    "timeWeek": 96,
+    "timeMonth": 303,
+    "timeYear": 184,
     "dailyMinutesDown": {}
   }
 ]
