@@ -4,11 +4,11 @@
     "url": "https://bradparbs.com",
     "icon": "https://favicons.githubusercontent.com/bradparbs.com",
     "slug": "brad-parbs-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 137,
     "timeDay": 81,
@@ -16,6 +16,7 @@
     "timeMonth": 140,
     "timeYear": 137,
     "dailyMinutesDown": {
+      "2021-07-28": 8,
       "2021-07-02": 28
     }
   },
@@ -24,11 +25,11 @@
     "url": "https://brrad.com/w",
     "icon": "https://favicons.githubusercontent.com/brrad.com",
     "slug": "brrad-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 194,
     "timeDay": 206,
@@ -36,6 +37,7 @@
     "timeMonth": 301,
     "timeYear": 194,
     "dailyMinutesDown": {
+      "2021-07-28": 6,
       "2021-07-02": 18
     }
   },
@@ -44,11 +46,11 @@
     "url": "https://isitsnowinginmilwaukee.com",
     "icon": "https://favicons.githubusercontent.com/isitsnowinginmilwaukee.com",
     "slug": "is-it-snowing-in-milwaukee-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 185,
     "timeDay": 172,
@@ -56,6 +58,7 @@
     "timeMonth": 173,
     "timeYear": 185,
     "dailyMinutesDown": {
+      "2021-07-28": 5,
       "2021-07-02": 17,
       "2021-01-25": 49
     }
@@ -65,18 +68,19 @@
     "url": "https://gifsb.in",
     "icon": "https://favicons.githubusercontent.com/gifsb.in",
     "slug": "gifsb-in",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 146,
     "timeDay": 99,
     "timeWeek": 131,
     "timeMonth": 144,
     "timeYear": 146,
     "dailyMinutesDown": {
+      "2021-07-28": 3,
       "2021-07-02": 15
     }
   },
@@ -85,10 +89,10 @@
     "url": "https://sax.cat",
     "icon": "https://favicons.githubusercontent.com/sax.cat",
     "slug": "sax-cat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
@@ -96,16 +100,18 @@
     "timeWeek": 166,
     "timeMonth": 298,
     "timeYear": 227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-28": 2
+    }
   },
   {
     "name": "butts.tech",
     "url": "https://butts.tech",
     "icon": "https://favicons.githubusercontent.com/butts.tech",
     "slug": "butts-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -114,7 +120,9 @@
     "timeWeek": 135,
     "timeMonth": 138,
     "timeYear": 151,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-28": 0
+    }
   },
   {
     "name": "fauxio",
