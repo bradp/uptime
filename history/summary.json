@@ -6,17 +6,16 @@
     "slug": "brad-parbs-com",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 137,
-    "timeDay": 110,
-    "timeWeek": 112,
+    "timeDay": 115,
+    "timeWeek": 107,
     "timeMonth": 140,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2021-07-28": 12,
       "2021-07-02": 28
     }
   },
@@ -27,17 +26,16 @@
     "slug": "brrad-com",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 194,
-    "timeDay": 172,
-    "timeWeek": 178,
+    "time": 193,
+    "timeDay": 122,
+    "timeWeek": 160,
     "timeMonth": 297,
-    "timeYear": 194,
+    "timeYear": 193,
     "dailyMinutesDown": {
-      "2021-07-28": 10,
       "2021-07-02": 18
     }
   },
@@ -48,17 +46,16 @@
     "slug": "is-it-snowing-in-milwaukee-com",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 185,
-    "timeDay": 180,
-    "timeWeek": 149,
+    "timeDay": 143,
+    "timeWeek": 143,
     "timeMonth": 174,
     "timeYear": 185,
     "dailyMinutesDown": {
-      "2021-07-28": 9,
       "2021-07-02": 17,
       "2021-01-25": 49
     }
@@ -69,18 +66,17 @@
     "icon": "https://favicons.githubusercontent.com/gifsb.in",
     "slug": "gifsb-in",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 100,
-    "timeWeek": 127,
+    "timeDay": 92,
+    "timeWeek": 115,
     "timeMonth": 142,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2021-07-28": 7,
       "2021-07-02": 15
     }
   },
@@ -91,18 +87,16 @@
     "slug": "sax-cat",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 162,
-    "timeWeek": 165,
-    "timeMonth": 294,
+    "timeDay": 170,
+    "timeWeek": 170,
+    "timeMonth": 295,
     "timeYear": 227,
-    "dailyMinutesDown": {
-      "2021-07-28": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "butts.tech",
@@ -111,18 +105,16 @@
     "slug": "butts-tech",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 151,
-    "timeDay": 145,
-    "timeWeek": 135,
+    "timeDay": 132,
+    "timeWeek": 131,
     "timeMonth": 138,
     "timeYear": 151,
-    "dailyMinutesDown": {
-      "2021-07-28": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "fauxio",
@@ -136,8 +128,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 76,
-    "timeWeek": 108,
+    "timeDay": 63,
+    "timeWeek": 97,
     "timeMonth": 119,
     "timeYear": 140,
     "dailyMinutesDown": {}
@@ -154,8 +146,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 134,
-    "timeDay": 106,
-    "timeWeek": 121,
+    "timeDay": 86,
+    "timeWeek": 114,
     "timeMonth": 120,
     "timeYear": 134,
     "dailyMinutesDown": {
@@ -173,11 +165,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 409,
-    "timeDay": 153,
-    "timeWeek": 195,
+    "time": 408,
+    "timeDay": 137,
+    "timeWeek": 191,
     "timeMonth": 763,
-    "timeYear": 409,
+    "timeYear": 408,
     "dailyMinutesDown": {
       "2021-01-07": 25
     }
@@ -193,11 +185,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 180,
-    "timeDay": 81,
-    "timeWeek": 126,
-    "timeMonth": 139,
-    "timeYear": 180,
+    "time": 179,
+    "timeDay": 77,
+    "timeWeek": 119,
+    "timeMonth": 140,
+    "timeYear": 179,
     "dailyMinutesDown": {}
   }
 ]
