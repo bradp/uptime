@@ -4,11 +4,11 @@
     "url": "https://bradparbs.com",
     "icon": "https://favicons.githubusercontent.com/bradparbs.com",
     "slug": "brad-parbs-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 136,
     "timeDay": 91,
@@ -16,6 +16,7 @@
     "timeMonth": 112,
     "timeYear": 136,
     "dailyMinutesDown": {
+      "2021-08-13": 5,
       "2021-07-02": 28
     }
   },
@@ -24,11 +25,11 @@
     "url": "https://brrad.com/w",
     "icon": "https://favicons.githubusercontent.com/brrad.com",
     "slug": "brrad-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 192,
     "timeDay": 133,
@@ -36,6 +37,7 @@
     "timeMonth": 157,
     "timeYear": 192,
     "dailyMinutesDown": {
+      "2021-08-13": 3,
       "2021-07-02": 18
     }
   },
@@ -44,10 +46,10 @@
     "url": "https://isitsnowinginmilwaukee.com",
     "icon": "https://favicons.githubusercontent.com/isitsnowinginmilwaukee.com",
     "slug": "is-it-snowing-in-milwaukee-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 182,
@@ -56,6 +58,7 @@
     "timeMonth": 142,
     "timeYear": 182,
     "dailyMinutesDown": {
+      "2021-08-13": 2,
       "2021-07-02": 17,
       "2021-01-25": 49
     }
@@ -65,9 +68,9 @@
     "url": "https://gifsb.in",
     "icon": "https://favicons.githubusercontent.com/gifsb.in",
     "slug": "gifsb-in",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -77,6 +80,7 @@
     "timeMonth": 119,
     "timeYear": 144,
     "dailyMinutesDown": {
+      "2021-08-13": 0,
       "2021-07-02": 15
     }
   },
@@ -168,7 +172,7 @@
     "time": 394,
     "timeDay": 173,
     "timeWeek": 189,
-    "timeMonth": 737,
+    "timeMonth": 198,
     "timeYear": 394,
     "dailyMinutesDown": {
       "2021-01-07": 25
