@@ -5,11 +5,11 @@ assignees:
   - bradp
   
 sites:
-  - name: BradParbs.com
+  - name: bradparbs.com
     url: https://bradparbs.com
   - name: brrad.com
     url: https://brrad.com/w
-  - name: IsItSnowingInMilwaukee.com
+  - name: isitsnowinginmilwaukee.com
     url: https://isitsnowinginmilwaukee.com
   - name: gifsb.in
     url: https://gifsb.in
@@ -25,7 +25,11 @@ sites:
     url: https://pears.cloud
   - name: horror.watch
     url: https://horror.watch
-    icon: https://horror.watch/favicon/favicon.ico
+  - name: advanced.rocks
+    url: https://advanced.rocks
+  - name: beginner.rocks
+    url: https://beginner.rocks
+  
 
 status-website:
   cname: status.brrad.com
