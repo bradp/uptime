@@ -7,13 +7,16 @@ assignees:
 sites:
   - name: bradparbs.com
     url: https://bradparbs.com
+    icon: https://bradparbs.com/images/icons/favicon-32x32.png
   - name: brrad.com
     url: https://brrad.com/w
+    icon: https://bradparbs.com/images/icons/favicon-32x32.png
   - name: isitsnowinginmilwaukee.com
     url: https://isitsnowinginmilwaukee.com
     icon: https://isitsnowinginmilwaukee.com/favicon-32x32.png
   - name: gifsb.in
     url: https://gifsb.in
+    icon: https://gifsb.in/favicon.ico
   - name: sax.cat
     url: https://sax.cat
     icon: https://sax.cat/favicon-32x32.png
@@ -22,6 +25,7 @@ sites:
     icon: https://butts.tech/favicon-32x32.png
   - name: fauxio
     url: https://faux.io
+    icon: https://faux.io/favicon-32x32.png
   - name: brad.cash
     url: https://brad.cash
     icon: https://brad.cash/favicon-32x32.png
