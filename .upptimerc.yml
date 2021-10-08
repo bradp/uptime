@@ -11,24 +11,32 @@ sites:
     url: https://brrad.com/w
   - name: isitsnowinginmilwaukee.com
     url: https://isitsnowinginmilwaukee.com
+    icon: https://isitsnowinginmilwaukee.com/favicon-32x32.png
   - name: gifsb.in
     url: https://gifsb.in
   - name: sax.cat
     url: https://sax.cat
+    icon: https://sax.cat/favicon-32x32.png
   - name: butts.tech
     url: https://butts.tech
+    icon: https://butts.tech/favicon-32x32.png
   - name: fauxio
     url: https://faux.io
   - name: brad.cash
     url: https://brad.cash
+    icon: https://brad.cash/favicon-32x32.png
   - name: pears.cloud
     url: https://pears.cloud
+    icon: https://pears.cloud/favicon-32x32.png
   - name: horror.watch
     url: https://horror.watch
+    icon: https://horror.watch/favicon-32x32.png
   - name: advanced.rocks
     url: https://advanced.rocks
+    icon: https://advanced.rocks/favicon-32x32.png
   - name: beginner.rocks
     url: https://beginner.rocks
+    icon: https://beginner.rocks/favicon-32x32.png
   
 
 status-website:
