@@ -98,18 +98,20 @@
     "url": "https://butts.tech",
     "icon": "https://butts.tech/favicon-32x32.png",
     "slug": "butts-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 140,
-    "timeWeek": 127,
-    "timeMonth": 127,
+    "time": 188,
+    "timeDay": 267,
+    "timeWeek": 160,
+    "timeMonth": 135,
     "timeYear": 198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-16": 0
+    }
   },
   {
     "name": "fauxio",
