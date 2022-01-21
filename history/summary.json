@@ -42,19 +42,19 @@
     "url": "https://isitsnowinginmilwaukee.com",
     "icon": "https://isitsnowinginmilwaukee.com/favicon-32x32.png",
     "slug": "isitsnowinginmilwaukee-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 2833,
-    "timeWeek": 798,
-    "timeMonth": 305,
-    "timeYear": 189,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 188,
+    "timeDay": 1922,
+    "timeWeek": 721,
+    "timeMonth": 298,
+    "timeYear": 188,
     "dailyMinutesDown": {
-      "2022-01-21": 0
+      "2022-01-21": 12
     }
   },
   {
