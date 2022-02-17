@@ -118,18 +118,16 @@
     "slug": "fauxio",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
     "timeDay": 109,
     "timeWeek": 104,
     "timeMonth": 121,
     "timeYear": 130,
-    "dailyMinutesDown": {
-      "2022-02-16": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "brad.cash",
