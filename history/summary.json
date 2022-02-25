@@ -154,9 +154,9 @@
     "url": "https://pears.cloud",
     "icon": "https://pears.cloud/favicon-32x32.png",
     "slug": "pears-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -165,7 +165,9 @@
     "timeWeek": 144,
     "timeMonth": 128,
     "timeYear": 283,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-25": 0
+    }
   },
   {
     "name": "horror.watch",
