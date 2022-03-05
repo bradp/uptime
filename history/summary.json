@@ -60,10 +60,10 @@
     "url": "https://gifsb.in",
     "icon": "https://gifsb.in/favicon.ico",
     "slug": "gifsb-in",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
@@ -72,6 +72,7 @@
     "timeMonth": 116,
     "timeYear": 139,
     "dailyMinutesDown": {
+      "2022-03-05": 2,
       "2021-07-02": 15
     }
   },
@@ -190,9 +191,9 @@
     "url": "https://advanced.rocks",
     "icon": "https://advanced.rocks/favicon-32x32.png",
     "slug": "advanced-rocks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -201,7 +202,9 @@
     "timeWeek": 161,
     "timeMonth": 150,
     "timeYear": 160,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-05": 0
+    }
   },
   {
     "name": "beginner.rocks",
