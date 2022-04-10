@@ -4,19 +4,19 @@
     "url": "https://bradparbs.com",
     "icon": "https://bradparbs.com/images/icons/favicon-32x32.png",
     "slug": "bradparbs-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 127,
+    "timeDay": 151,
     "timeWeek": 170,
-    "timeMonth": 143,
+    "timeMonth": 144,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2022-04-10": 0
+      "2022-04-10": 11
     }
   },
   {
