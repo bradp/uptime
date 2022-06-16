@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 172,
-    "timeWeek": 154,
-    "timeMonth": 154,
+    "timeDay": 189,
+    "timeWeek": 153,
+    "timeMonth": 157,
     "timeYear": 140,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 186,
-    "timeDay": 428,
-    "timeWeek": 245,
-    "timeMonth": 236,
-    "timeYear": 183,
+    "time": 187,
+    "timeDay": 486,
+    "timeWeek": 283,
+    "timeMonth": 248,
+    "timeYear": 184,
     "dailyMinutesDown": {
       "2021-07-02": 18
     }
@@ -49,9 +49,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 171,
-    "timeDay": 201,
-    "timeWeek": 200,
-    "timeMonth": 192,
+    "timeDay": 250,
+    "timeWeek": 209,
+    "timeMonth": 196,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2022-06-14": 41
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 191,
-    "timeWeek": 157,
-    "timeMonth": 291,
+    "timeDay": 168,
+    "timeWeek": 153,
+    "timeMonth": 294,
     "timeYear": 140,
     "dailyMinutesDown": {
       "2021-07-02": 15
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 301,
-    "timeWeek": 289,
-    "timeMonth": 260,
+    "timeDay": 257,
+    "timeWeek": 286,
+    "timeMonth": 263,
     "timeYear": 225,
     "dailyMinutesDown": {}
   },
@@ -102,18 +102,16 @@
     "slug": "butts-tech",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 200,
-    "timeWeek": 203,
-    "timeMonth": 163,
+    "time": 186,
+    "timeDay": 191,
+    "timeWeek": 187,
+    "timeMonth": 165,
     "timeYear": 190,
-    "dailyMinutesDown": {
-      "2022-06-15": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "fauxio",
@@ -122,18 +120,16 @@
     "slug": "fauxio",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 115,
-    "timeWeek": 142,
-    "timeMonth": 146,
+    "timeDay": 102,
+    "timeWeek": 121,
+    "timeMonth": 147,
     "timeYear": 124,
-    "dailyMinutesDown": {
-      "2022-06-15": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "brad.cash",
@@ -141,18 +137,17 @@
     "icon": "https://brad.cash/favicon-32x32.png",
     "slug": "brad-cash",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
-    "timeDay": 311,
-    "timeWeek": 299,
-    "timeMonth": 312,
+    "timeDay": 321,
+    "timeWeek": 326,
+    "timeMonth": 318,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2022-06-15": 10,
       "2021-09-29": 16
     }
   },
@@ -163,18 +158,16 @@
     "slug": "pears-cloud",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 125,
-    "timeWeek": 154,
+    "time": 262,
+    "timeDay": 110,
+    "timeWeek": 132,
     "timeMonth": 370,
     "timeYear": 286,
-    "dailyMinutesDown": {
-      "2022-06-15": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "horror.watch",
@@ -183,18 +176,16 @@
     "slug": "horror-watch",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
-    "timeDay": 242,
-    "timeWeek": 265,
-    "timeMonth": 265,
-    "timeYear": 203,
-    "dailyMinutesDown": {
-      "2022-06-15": 10
-    }
+    "timeDay": 234,
+    "timeWeek": 248,
+    "timeMonth": 271,
+    "timeYear": 189,
+    "dailyMinutesDown": {}
   },
   {
     "name": "advanced.rocks",
@@ -203,18 +194,16 @@
     "slug": "advanced-rocks",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
-    "timeDay": 250,
-    "timeWeek": 225,
-    "timeMonth": 232,
+    "timeDay": 199,
+    "timeWeek": 203,
+    "timeMonth": 231,
     "timeYear": 174,
-    "dailyMinutesDown": {
-      "2022-06-15": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "beginner.rocks",
@@ -223,17 +212,15 @@
     "slug": "beginner-rocks",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 154,
-    "timeDay": 204,
-    "timeWeek": 253,
-    "timeMonth": 242,
-    "timeYear": 154,
-    "dailyMinutesDown": {
-      "2022-06-15": 10
-    }
+    "time": 155,
+    "timeDay": 276,
+    "timeWeek": 256,
+    "timeMonth": 252,
+    "timeYear": 155,
+    "dailyMinutesDown": {}
   }
 ]
