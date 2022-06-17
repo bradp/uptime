@@ -100,19 +100,19 @@
     "url": "https://butts.tech",
     "icon": "https://butts.tech/favicon-32x32.png",
     "slug": "butts-tech",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 184,
-    "timeDay": 129,
-    "timeWeek": 171,
-    "timeMonth": 163,
+    "timeDay": 131,
+    "timeWeek": 168,
+    "timeMonth": 162,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2022-06-17": 1
+      "2022-06-17": 10
     }
   },
   {
@@ -120,19 +120,19 @@
     "url": "https://faux.io",
     "icon": "https://faux.io/favicon-32x32.png",
     "slug": "fauxio",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 111,
+    "timeDay": 113,
     "timeWeek": 120,
-    "timeMonth": 144,
+    "timeMonth": 143,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2022-06-17": 1
+      "2022-06-17": 10
     }
   },
   {
@@ -140,19 +140,19 @@
     "url": "https://brad.cash",
     "icon": "https://brad.cash/favicon-32x32.png",
     "slug": "brad-cash",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 240,
-    "timeWeek": 304,
+    "timeDay": 266,
+    "timeWeek": 306,
     "timeMonth": 318,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2022-06-17": 1,
+      "2022-06-17": 10,
       "2021-09-29": 16
     }
   },
@@ -161,19 +161,19 @@
     "url": "https://pears.cloud",
     "icon": "https://pears.cloud/favicon-32x32.png",
     "slug": "pears-cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 262,
-    "timeDay": 92,
-    "timeWeek": 116,
-    "timeMonth": 360,
+    "timeDay": 122,
+    "timeWeek": 122,
+    "timeMonth": 355,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2022-06-17": 1
+      "2022-06-17": 10
     }
   },
   {
@@ -181,19 +181,19 @@
     "url": "https://horror.watch",
     "icon": "https://horror.watch/favicon-32x32.png",
     "slug": "horror-watch",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 192,
-    "timeDay": 234,
-    "timeWeek": 253,
-    "timeMonth": 272,
+    "timeDay": 248,
+    "timeWeek": 255,
+    "timeMonth": 273,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2022-06-17": 1
+      "2022-06-17": 10
     }
   },
   {
@@ -201,19 +201,19 @@
     "url": "https://advanced.rocks",
     "icon": "https://advanced.rocks/favicon-32x32.png",
     "slug": "advanced-rocks",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 174,
-    "timeDay": 163,
-    "timeWeek": 207,
-    "timeMonth": 228,
-    "timeYear": 174,
+    "time": 175,
+    "timeDay": 200,
+    "timeWeek": 213,
+    "timeMonth": 229,
+    "timeYear": 175,
     "dailyMinutesDown": {
-      "2022-06-17": 1
+      "2022-06-17": 10
     }
   },
   {
@@ -221,19 +221,19 @@
     "url": "https://beginner.rocks",
     "icon": "https://beginner.rocks/favicon-32x32.png",
     "slug": "beginner-rocks",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 155,
-    "timeDay": 102,
-    "timeWeek": 240,
-    "timeMonth": 245,
-    "timeYear": 155,
+    "time": 156,
+    "timeDay": 170,
+    "timeWeek": 246,
+    "timeMonth": 247,
+    "timeYear": 156,
     "dailyMinutesDown": {
-      "2022-06-17": 1
+      "2022-06-17": 10
     }
   }
 ]
