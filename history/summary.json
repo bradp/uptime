@@ -6,18 +6,16 @@
     "slug": "bradparbs-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
     "timeDay": 2132,
     "timeWeek": 1059,
     "timeMonth": 425,
     "timeYear": 178,
-    "dailyMinutesDown": {
-      "2022-06-21": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "brrad.com",
@@ -26,17 +24,16 @@
     "slug": "brrad-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 200,
     "timeDay": 2275,
     "timeWeek": 959,
     "timeMonth": 423,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2022-06-21": 11,
       "2021-07-02": 18
     }
   },
@@ -47,9 +44,9 @@
     "slug": "isitsnowinginmilwaukee-com",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 173,
     "timeDay": 206,
@@ -57,7 +54,6 @@
     "timeMonth": 208,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2022-06-21": 11,
       "2022-06-14": 41
     }
   },
@@ -66,10 +62,10 @@
     "url": "https://gifsb.in",
     "icon": "https://gifsb.in/favicon.ico",
     "slug": "gifsb-in",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "99.69%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 147,
@@ -78,7 +74,7 @@
     "timeMonth": 277,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2022-06-21": 32,
+      "2022-06-21": 33,
       "2021-07-02": 15
     }
   },
@@ -89,17 +85,17 @@
     "slug": "sax-cat",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "97.71%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "100.00%",
     "time": 227,
     "timeDay": 216,
     "timeWeek": 247,
     "timeMonth": 258,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2022-06-21": 33
+      "2022-06-21": 23
     }
   },
   {
@@ -109,36 +105,36 @@
     "slug": "butts-tech",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 183,
     "timeDay": 93,
     "timeWeek": 142,
     "timeMonth": 151,
     "timeYear": 189,
-    "dailyMinutesDown": {
-      "2022-06-21": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "fauxio",
     "url": "https://faux.io",
     "icon": "https://faux.io/favicon-32x32.png",
     "slug": "fauxio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 136,
-    "timeWeek": 120,
-    "timeMonth": 141,
+    "timeDay": 129,
+    "timeWeek": 119,
+    "timeMonth": 140,
     "timeYear": 124,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 1
+    }
   },
   {
     "name": "brad.cash",
@@ -167,17 +163,17 @@
     "slug": "pears-cloud",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.75%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "100.00%",
     "time": 262,
     "timeDay": 108,
     "timeWeek": 118,
     "timeMonth": 332,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2022-06-21": 33
+      "2022-06-21": 23
     }
   },
   {
@@ -185,19 +181,19 @@
     "url": "https://horror.watch",
     "icon": "https://horror.watch/favicon-32x32.png",
     "slug": "horror-watch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 224,
-    "timeWeek": 252,
-    "timeMonth": 261,
+    "time": 195,
+    "timeDay": 257,
+    "timeWeek": 262,
+    "timeMonth": 265,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2022-06-21": 10
+      "2022-06-21": 1
     }
   },
   {
@@ -206,18 +202,18 @@
     "icon": "https://advanced.rocks/favicon-32x32.png",
     "slug": "advanced-rocks",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 175,
     "timeDay": 171,
     "timeWeek": 203,
     "timeMonth": 225,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2022-06-21": 10
+      "2022-06-21": 24
     }
   },
   {
