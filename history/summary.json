@@ -4,19 +4,19 @@
     "url": "https://bradparbs.com",
     "icon": "https://bradparbs.com/images/icons/favicon-32x32.png",
     "slug": "bradparbs-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 141,
     "timeDay": 126,
-    "timeWeek": 156,
-    "timeMonth": 156,
+    "timeWeek": 152,
+    "timeMonth": 155,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2022-06-21": 3
+      "2022-06-21": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://brrad.com/w",
     "icon": "https://bradparbs.com/images/icons/favicon-32x32.png",
     "slug": "brrad-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 124,
-    "timeWeek": 276,
-    "timeMonth": 245,
-    "timeYear": 184,
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 188,
+    "timeDay": 243,
+    "timeWeek": 287,
+    "timeMonth": 249,
+    "timeYear": 185,
     "dailyMinutesDown": {
-      "2022-06-21": 2,
+      "2022-06-21": 9,
       "2021-07-02": 18
     }
   },
@@ -45,19 +45,19 @@
     "url": "https://isitsnowinginmilwaukee.com",
     "icon": "https://isitsnowinginmilwaukee.com/favicon-32x32.png",
     "slug": "isitsnowinginmilwaukee-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
-    "time": 172,
-    "timeDay": 123,
-    "timeWeek": 225,
-    "timeMonth": 205,
-    "timeYear": 172,
+    "time": 173,
+    "timeDay": 190,
+    "timeWeek": 229,
+    "timeMonth": 207,
+    "timeYear": 173,
     "dailyMinutesDown": {
-      "2022-06-21": 2,
+      "2022-06-21": 8,
       "2022-06-14": 41
     }
   },
@@ -68,9 +68,9 @@
     "slug": "gifsb-in",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 147,
     "timeDay": 69,
@@ -78,7 +78,7 @@
     "timeMonth": 278,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2022-06-21": 1,
+      "2022-06-21": 9,
       "2021-07-02": 15
     }
   },
@@ -87,19 +87,19 @@
     "url": "https://sax.cat",
     "icon": "https://sax.cat/favicon-32x32.png",
     "slug": "sax-cat",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 233,
-    "timeWeek": 263,
-    "timeMonth": 263,
+    "timeDay": 232,
+    "timeWeek": 260,
+    "timeMonth": 262,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2022-06-21": 16
+      "2022-06-21": 23
     }
   },
   {
@@ -125,19 +125,19 @@
     "url": "https://faux.io",
     "icon": "https://faux.io/favicon-32x32.png",
     "slug": "fauxio",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 122,
-    "timeWeek": 117,
-    "timeMonth": 140,
+    "timeDay": 136,
+    "timeWeek": 120,
+    "timeMonth": 141,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2022-06-21": 1
+      "2022-06-21": 8
     }
   },
   {
@@ -145,19 +145,19 @@
     "url": "https://brad.cash",
     "icon": "https://brad.cash/favicon-32x32.png",
     "slug": "brad-cash",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 94,
-    "timeWeek": 267,
+    "timeDay": 165,
+    "timeWeek": 270,
     "timeMonth": 298,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2022-06-21": 1,
+      "2022-06-21": 8,
       "2021-09-29": 16
     }
   },
@@ -166,19 +166,19 @@
     "url": "https://pears.cloud",
     "icon": "https://pears.cloud/favicon-32x32.png",
     "slug": "pears-cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 262,
-    "timeDay": 123,
+    "timeDay": 124,
     "timeWeek": 123,
-    "timeMonth": 351,
-    "timeYear": 224,
+    "timeMonth": 345,
+    "timeYear": 223,
     "dailyMinutesDown": {
-      "2022-06-21": 16
+      "2022-06-21": 23
     }
   },
   {
@@ -186,19 +186,19 @@
     "url": "https://horror.watch",
     "icon": "https://horror.watch/favicon-32x32.png",
     "slug": "horror-watch",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 194,
-    "timeDay": 225,
-    "timeWeek": 259,
-    "timeMonth": 264,
+    "timeDay": 255,
+    "timeWeek": 263,
+    "timeMonth": 265,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2022-06-21": 1
+      "2022-06-21": 8
     }
   },
   {
@@ -206,19 +206,19 @@
     "url": "https://advanced.rocks",
     "icon": "https://advanced.rocks/favicon-32x32.png",
     "slug": "advanced-rocks",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 174,
-    "timeDay": 89,
-    "timeWeek": 198,
-    "timeMonth": 224,
-    "timeYear": 174,
+    "time": 175,
+    "timeDay": 171,
+    "timeWeek": 203,
+    "timeMonth": 225,
+    "timeYear": 175,
     "dailyMinutesDown": {
-      "2022-06-21": 1
+      "2022-06-21": 8
     }
   },
   {
@@ -227,18 +227,18 @@
     "icon": "https://beginner.rocks/favicon-32x32.png",
     "slug": "beginner-rocks",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 156,
     "timeDay": 54,
     "timeWeek": 199,
     "timeMonth": 229,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2022-06-21": 15
+      "2022-06-21": 23
     }
   }
 ]
