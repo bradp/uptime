@@ -34,14 +34,7 @@ sites:
     icon: https://pears.cloud/favicon-32x32.png
   - name: horror.watch
     url: https://horror.watch
-    icon: https://horror.watch/favicon-32x32.png
-  - name: advanced.rocks
-    url: https://advanced.rocks
-    icon: https://advanced.rocks/favicon-32x32.png
-  - name: beginner.rocks
-    url: https://beginner.rocks
-    icon: https://beginner.rocks/favicon-32x32.png
-  
+    icon: https://horror.watch/favicon-32x32.
 
 status-website:
   cname: status.brrad.com
