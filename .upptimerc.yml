@@ -34,7 +34,11 @@ sites:
     icon: https://pears.cloud/favicon-32x32.png
   - name: horror.watch
     url: https://horror.watch
-    icon: https://horror.watch/favicon-32x32.
+    icon: https://horror.watch/favicon-32x32.png
+  - name: mouse.rip
+    url: https://mouse.rip
+    icon: https://mouse.rip/favicon.ico
+
 
 status-website:
   cname: status.brrad.com
