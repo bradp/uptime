@@ -45,9 +45,9 @@
     "url": "https://isitsnowinginmilwaukee.com",
     "icon": "https://isitsnowinginmilwaukee.com/favicon-32x32.png",
     "slug": "isitsnowinginmilwaukee-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -57,6 +57,7 @@
     "timeMonth": 375,
     "timeYear": 199,
     "dailyMinutesDown": {
+      "2022-11-04": 0,
       "2022-07-02": 27,
       "2022-06-14": 41
     }
