@@ -78,7 +78,6 @@ sites:
 
 status-website:
   cname: status.brrad.com
-  theme: night
   logoUrl: https://brrad.com/tada.png
   name: "Brad Parbs Uptime"
   introTitle: ""
