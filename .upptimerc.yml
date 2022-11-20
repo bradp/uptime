@@ -3,42 +3,77 @@ repo: uptime
 user-agent: bradp
 assignees:
   - bradp
-  
 sites:
   - name: bradparbs.com
     url: https://bradparbs.com
     icon: https://bradparbs.com/images/icons/favicon-32x32.png
-  - name: brrad.com
-    url: https://brrad.com/w
-    icon: https://bradparbs.com/images/icons/favicon-32x32.png
-  - name: isitsnowinginmilwaukee.com
-    url: https://isitsnowinginmilwaukee.com
-    icon: https://isitsnowinginmilwaukee.com/favicon-32x32.png
-  - name: gifsb.in
-    url: https://gifsb.in
-    icon: https://gifsb.in/favicon.ico
-  - name: sax.cat
-    url: https://sax.cat
-    icon: https://sax.cat/favicon-32x32.png
-  - name: butts.tech
-    url: https://butts.tech
-    icon: https://butts.tech/favicon-32x32.png
-  - name: fauxio
-    url: https://faux.io
-    icon: https://faux.io/favicon-32x32.png
+  - name: brad.party (redirect)
+    url: https://brad.party
+  - name: parbs.org (redirect)
+    url: https://parbs.org
+  - name: parbs.me (redirect)
+    url: https://parbs.me
+  - name: parbs.co (redirect)
+    url: https://parbs.co
   - name: brad.cash
     url: https://brad.cash
     icon: https://brad.cash/favicon-32x32.png
-  - name: pears.cloud
-    url: https://pears.cloud
-    icon: https://pears.cloud/favicon-32x32.png
+  - name: brrad.com (redirect)
+    url: https://brrad.com
+  - name: brrad.com/w
+    url: https://brrad.com/w
+  - name: status.brrad.com
+    url: https://status.brrad.com
+  - name: sarastaat.com
+    url: https://sarastaat.com
+  - name: advanced.rocks
+    url: https://advanced.rocks
+  - name: beginner.rocks
+    url: https://beginner.rocks
+  - name: butts.tech
+    url: https://butts.tech
+    icon: https://butts.tech/favicon-32x32.png
+  - name: gifsb.in
+    url: https://gifsb.in
+    icon: https://gifsb.in/favicon.ico
   - name: horror.watch
     url: https://horror.watch
     icon: https://horror.watch/favicon-32x32.png
+  - name: horse.dance
+    url: https://horse.dance
+  - name: isitsnowinginmilwaukee.com
+    url: https://isitsnowinginmilwaukee.com
+    icon: https://isitsnowinginmilwaukee.com/favicon-32x32.png
+  - name: sax.cat
+    url: https://sax.cat
+    icon: https://sax.cat/favicon-32x32.png
+  - name: pears.cloud
+    url: https://pears.cloud
+    icon: https://pears.cloud/favicon-32x32.png
+  - name: 734s.com
+    url: https://734s.com
+  - name: fauxio
+    url: https://faux.io
+    icon: https://faux.io/favicon-32x32.png
+  - name: last.sh
+    url: https://last.sh
+  - name: marvels.app
+    url: https://marvels.app
   - name: mouse.rip
     url: https://mouse.rip
     icon: https://mouse.rip/favicon.ico
-
+  - name: api.mouse.rip
+    url: https://mouse.rip/favicon.ico
+  - name: guide.mouse.rip
+    url: https://guide.mouse.rip
+  - name: guide-preview.mouse.rip
+    url: https://guide-preview.mouse.rip
+  - name: items.mouse.rip
+    url: https://items.mouse.rip
+  - name: mousehunt.org (redirect)
+    url: https://mousehunt.org
+  - name: mouse.place (redirect)
+    url: https://mouse.place
 
 status-website:
   cname: status.brrad.com
