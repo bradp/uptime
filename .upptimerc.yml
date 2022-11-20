@@ -3,6 +3,7 @@ repo: uptime
 user-agent: bradp
 assignees:
   - bradp
+
 sites:
   - name: bradparbs.com
     url: https://bradparbs.com
@@ -77,7 +78,8 @@ sites:
 
 status-website:
   cname: status.brrad.com
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  theme: night
+  logoUrl: https://brrad.com/tada.png
   name: "Brad Parbs Uptime"
   introTitle: ""
   introMessage: ""
