@@ -25,12 +25,6 @@ sites:
     url: https://brrad.com/w
   - name: status.brrad.com
     url: https://status.brrad.com
-  - name: sarastaat.com
-    url: https://sarastaat.com
-  - name: advanced.rocks
-    url: https://advanced.rocks
-  - name: beginner.rocks
-    url: https://beginner.rocks
   - name: butts.tech
     url: https://butts.tech
     icon: https://butts.tech/favicon-32x32.png
@@ -51,8 +45,6 @@ sites:
   - name: pears.cloud
     url: https://pears.cloud
     icon: https://pears.cloud/favicon-32x32.png
-  - name: 734s.com
-    url: https://734s.com
   - name: fauxio
     url: https://faux.io
     icon: https://faux.io/favicon-32x32.png
