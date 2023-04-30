@@ -239,9 +239,9 @@
     "url": "https://horse.dance",
     "icon": "https://icons.duckduckgo.com/ip3/horse.dance.ico",
     "slug": "horse-dance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -250,7 +250,9 @@
     "timeWeek": 332,
     "timeMonth": 357,
     "timeYear": 370,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-30": 0
+    }
   },
   {
     "name": "isitsnowinginmilwaukee.com",
