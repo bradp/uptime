@@ -34,8 +34,6 @@ sites:
   - name: horror.watch
     url: https://horror.watch
     icon: https://horror.watch/favicon-32x32.png
-  - name: horse.dance
-    url: https://horse.dance
   - name: isitsnowinginmilwaukee.com
     url: https://isitsnowinginmilwaukee.com
     icon: https://isitsnowinginmilwaukee.com/favicon-32x32.png
@@ -50,8 +48,6 @@ sites:
     icon: https://faux.io/favicon-32x32.png
   - name: last.sh
     url: https://last.sh
-  - name: marvels.app
-    url: https://marvels.app
   - name: mouse.rip
     url: https://mouse.rip
     icon: https://mouse.rip/favicon.ico
