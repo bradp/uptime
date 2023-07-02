@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 171,
-    "timeDay": 165,
-    "timeWeek": 164,
-    "timeMonth": 135,
+    "timeDay": 147,
+    "timeWeek": 166,
+    "timeMonth": 136,
     "timeYear": 154,
-    "dailyMinutesDown": {
-      "2022-07-02": 27
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "brad.party (redirect)",
@@ -31,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 285,
-    "timeDay": 1404,
-    "timeWeek": 383,
+    "timeDay": 289,
+    "timeWeek": 384,
     "timeMonth": 278,
     "timeYear": 285,
     "dailyMinutesDown": {}
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 293,
-    "timeWeek": 213,
-    "timeMonth": 189,
+    "timeDay": 140,
+    "timeWeek": 209,
+    "timeMonth": 187,
     "timeYear": 217,
     "dailyMinutesDown": {}
   },
@@ -67,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 141,
-    "timeDay": 169,
-    "timeWeek": 181,
+    "timeDay": 130,
+    "timeWeek": 162,
     "timeMonth": 183,
     "timeYear": 141,
     "dailyMinutesDown": {}
@@ -85,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 150,
-    "timeWeek": 167,
-    "timeMonth": 291,
+    "timeDay": 171,
+    "timeWeek": 169,
+    "timeMonth": 292,
     "timeYear": 148,
     "dailyMinutesDown": {}
   },
@@ -102,14 +100,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 288,
-    "timeDay": 1179,
-    "timeWeek": 345,
-    "timeMonth": 373,
-    "timeYear": 301,
-    "dailyMinutesDown": {
-      "2022-07-02": 27
-    }
+    "time": 287,
+    "timeDay": 121,
+    "timeWeek": 342,
+    "timeMonth": 365,
+    "timeYear": 302,
+    "dailyMinutesDown": {}
   },
   {
     "name": "brrad.com (redirect)",
@@ -123,9 +119,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 156,
-    "timeDay": 155,
-    "timeWeek": 157,
-    "timeMonth": 140,
+    "timeDay": 145,
+    "timeWeek": 155,
+    "timeMonth": 139,
     "timeYear": 156,
     "dailyMinutesDown": {
       "2023-01-29": 21
@@ -143,9 +139,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 128,
-    "timeDay": 169,
-    "timeWeek": 164,
-    "timeMonth": 128,
+    "timeDay": 130,
+    "timeWeek": 161,
+    "timeMonth": 127,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2023-01-29": 19
@@ -163,8 +159,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 170,
-    "timeDay": 173,
-    "timeWeek": 158,
+    "timeDay": 145,
+    "timeWeek": 156,
     "timeMonth": 131,
     "timeYear": 170,
     "dailyMinutesDown": {}
@@ -181,13 +177,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 160,
-    "timeDay": 249,
-    "timeWeek": 150,
-    "timeMonth": 124,
+    "timeDay": 121,
+    "timeWeek": 147,
+    "timeMonth": 119,
     "timeYear": 164,
-    "dailyMinutesDown": {
-      "2022-07-02": 27
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "gifsb.in",
@@ -201,13 +195,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 160,
-    "timeDay": 195,
-    "timeWeek": 207,
-    "timeMonth": 152,
+    "timeDay": 204,
+    "timeWeek": 211,
+    "timeMonth": 153,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2023-01-29": 16,
-      "2022-07-02": 27
+      "2023-01-29": 16
     }
   },
   {
@@ -222,13 +215,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 300,
-    "timeDay": 312,
-    "timeWeek": 276,
-    "timeMonth": 280,
-    "timeYear": 317,
-    "dailyMinutesDown": {
-      "2022-07-02": 27
-    }
+    "timeDay": 292,
+    "timeWeek": 263,
+    "timeMonth": 281,
+    "timeYear": 316,
+    "dailyMinutesDown": {}
   },
   {
     "name": "isitsnowinginmilwaukee.com",
@@ -242,18 +233,17 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
     "time": 316,
-    "timeDay": 169,
+    "timeDay": 193,
     "timeWeek": 175,
-    "timeMonth": 155,
-    "timeYear": 355,
+    "timeMonth": 154,
+    "timeYear": 357,
     "dailyMinutesDown": {
       "2023-02-22": 18,
       "2023-02-20": 36,
       "2022-11-29": 71,
       "2022-11-27": 1190,
       "2022-11-26": 1319,
-      "2022-11-04": 49,
-      "2022-07-02": 27
+      "2022-11-04": 49
     }
   },
   {
@@ -267,14 +257,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 289,
-    "timeDay": 242,
-    "timeWeek": 231,
+    "time": 290,
+    "timeDay": 209,
+    "timeWeek": 226,
     "timeMonth": 224,
-    "timeYear": 304,
-    "dailyMinutesDown": {
-      "2022-07-02": 27
-    }
+    "timeYear": 305,
+    "dailyMinutesDown": {}
   },
   {
     "name": "pears.cloud",
@@ -288,13 +276,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 159,
-    "timeDay": 142,
-    "timeWeek": 135,
-    "timeMonth": 127,
-    "timeYear": 146,
-    "dailyMinutesDown": {
-      "2022-07-02": 27
-    }
+    "timeDay": 123,
+    "timeWeek": 133,
+    "timeMonth": 126,
+    "timeYear": 147,
+    "dailyMinutesDown": {}
   },
   {
     "name": "fauxio",
@@ -308,13 +294,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 134,
-    "timeDay": 138,
-    "timeWeek": 131,
-    "timeMonth": 132,
+    "timeDay": 109,
+    "timeWeek": 128,
+    "timeMonth": 131,
     "timeYear": 136,
-    "dailyMinutesDown": {
-      "2022-07-02": 27
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "last.sh",
@@ -328,9 +312,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 179,
-    "timeWeek": 209,
-    "timeMonth": 186,
+    "timeDay": 231,
+    "timeWeek": 218,
+    "timeMonth": 189,
     "timeYear": 177,
     "dailyMinutesDown": {}
   },
@@ -345,11 +329,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 366,
-    "timeDay": 979,
-    "timeWeek": 640,
-    "timeMonth": 432,
-    "timeYear": 366,
+    "time": 365,
+    "timeDay": 263,
+    "timeWeek": 601,
+    "timeMonth": 431,
+    "timeYear": 365,
     "dailyMinutesDown": {}
   },
   {
@@ -364,7 +348,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 54,
-    "timeDay": 45,
+    "timeDay": 20,
     "timeWeek": 53,
     "timeMonth": 44,
     "timeYear": 54,
@@ -381,11 +365,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 928,
-    "timeWeek": 418,
-    "timeMonth": 344,
-    "timeYear": 347,
+    "time": 348,
+    "timeDay": 487,
+    "timeWeek": 435,
+    "timeMonth": 350,
+    "timeYear": 348,
     "dailyMinutesDown": {}
   },
   {
@@ -400,8 +384,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 350,
-    "timeDay": 381,
-    "timeWeek": 459,
+    "timeDay": 318,
+    "timeWeek": 466,
     "timeMonth": 494,
     "timeYear": 350,
     "dailyMinutesDown": {}
@@ -417,11 +401,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 386,
-    "timeDay": 841,
-    "timeWeek": 503,
-    "timeMonth": 475,
-    "timeYear": 386,
+    "time": 385,
+    "timeDay": 215,
+    "timeWeek": 471,
+    "timeMonth": 470,
+    "timeYear": 385,
     "dailyMinutesDown": {}
   },
   {
@@ -436,9 +420,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
-    "timeDay": 319,
-    "timeWeek": 271,
-    "timeMonth": 238,
+    "timeDay": 272,
+    "timeWeek": 264,
+    "timeMonth": 241,
     "timeYear": 252,
     "dailyMinutesDown": {}
   },
@@ -453,11 +437,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 349,
-    "timeDay": 443,
-    "timeWeek": 391,
-    "timeMonth": 363,
-    "timeYear": 349,
+    "time": 350,
+    "timeDay": 474,
+    "timeWeek": 410,
+    "timeMonth": 367,
+    "timeYear": 350,
     "dailyMinutesDown": {}
   }
 ]
