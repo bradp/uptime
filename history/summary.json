@@ -431,10 +431,10 @@
     "url": "https://mouse.place",
     "icon": "https://icons.duckduckgo.com/ip3/mouse.place.ico",
     "slug": "mouse-place-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "51.29%",
-    "uptimeWeek": "72.80%",
+    "uptimeDay": "52.22%",
+    "uptimeWeek": "72.79%",
     "uptimeMonth": "93.74%",
     "uptimeYear": "99.16%",
     "time": 378,
@@ -443,7 +443,7 @@
     "timeMonth": 497,
     "timeYear": 378,
     "dailyMinutesDown": {
-      "2023-07-05": 493,
+      "2023-07-05": 494,
       "2023-07-04": 1195,
       "2023-07-03": 1053
     }
