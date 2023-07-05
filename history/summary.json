@@ -104,7 +104,7 @@
     "timeDay": 430,
     "timeWeek": 430,
     "timeMonth": 378,
-    "timeYear": 304,
+    "timeYear": 303,
     "dailyMinutesDown": {}
   },
   {
@@ -261,7 +261,7 @@
     "timeDay": 190,
     "timeWeek": 217,
     "timeMonth": 219,
-    "timeYear": 305,
+    "timeYear": 304,
     "dailyMinutesDown": {}
   },
   {
@@ -431,19 +431,19 @@
     "url": "https://mouse.place",
     "icon": "https://icons.duckduckgo.com/ip3/mouse.place.ico",
     "slug": "mouse-place-redirect",
-    "status": "up",
-    "uptime": "99.09%",
-    "uptimeDay": "47.61%",
-    "uptimeWeek": "70.46%",
-    "uptimeMonth": "93.20%",
-    "uptimeYear": "99.09%",
+    "status": "down",
+    "uptime": "99.10%",
+    "uptimeDay": "48.45%",
+    "uptimeWeek": "70.58%",
+    "uptimeMonth": "93.23%",
+    "uptimeYear": "99.10%",
     "time": 377,
     "timeDay": 627,
     "timeWeek": 587,
     "timeMonth": 479,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2023-07-05": 728,
+      "2023-07-05": 716,
       "2023-07-04": 1195,
       "2023-07-03": 1053
     }
