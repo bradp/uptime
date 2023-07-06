@@ -61,8 +61,6 @@ sites:
     url: https://items.mouse.rip
   - name: mousehunt.org (redirect)
     url: https://mousehunt.org
-  - name: mouse.place (redirect)
-    url: https://mouse.place
 
 status-website:
   cname: status.brrad.com
