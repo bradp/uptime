@@ -287,18 +287,20 @@
     "url": "https://faux.io",
     "icon": "https://faux.io/favicon-32x32.png",
     "slug": "fauxio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 135,
+    "time": 136,
     "timeDay": 105,
     "timeWeek": 172,
     "timeMonth": 142,
     "timeYear": 138,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-15": 1
+    }
   },
   {
     "name": "last.sh",
