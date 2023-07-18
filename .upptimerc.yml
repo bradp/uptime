@@ -43,9 +43,6 @@ sites:
   - name: pears.cloud
     url: https://pears.cloud
     icon: https://pears.cloud/favicon-32x32.png
-  - name: fauxio
-    url: https://faux.io
-    icon: https://faux.io/favicon-32x32.png
   - name: last.sh
     url: https://last.sh
   - name: mouse.rip
