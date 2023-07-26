@@ -22,11 +22,11 @@
     "url": "https://brad.party",
     "icon": "https://icons.duckduckgo.com/ip3/brad.party.ico",
     "slug": "brad-party-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.04%",
+    "uptimeDay": "98.01%",
     "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 279,
     "timeDay": 258,
@@ -80,18 +80,16 @@
     "slug": "parbs-co-redirect",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
     "timeDay": 84,
     "timeWeek": 90,
     "timeMonth": 113,
     "timeYear": 143,
-    "dailyMinutesDown": {
-      "2023-07-26": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "brad.cash",
