@@ -24,9 +24,9 @@
     "slug": "brad-party-redirect",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 279,
     "timeDay": 196,
@@ -34,7 +34,7 @@
     "timeMonth": 261,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2023-07-26": 1
+      "2023-07-26": 9
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://parbs.co",
     "icon": "https://icons.duckduckgo.com/ip3/parbs.co.ico",
     "slug": "parbs-co-redirect",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 143,
-    "timeDay": 68,
-    "timeWeek": 89,
-    "timeMonth": 115,
+    "timeDay": 90,
+    "timeWeek": 92,
+    "timeMonth": 114,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2023-07-26": 1
+      "2023-07-26": 9
     }
   },
   {
@@ -192,19 +192,19 @@
     "url": "https://gifsb.in",
     "icon": "https://gifsb.in/favicon.ico",
     "slug": "gifsb-in",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 161,
-    "timeDay": 159,
-    "timeWeek": 144,
+    "timeDay": 170,
+    "timeWeek": 149,
     "timeMonth": 158,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2023-07-26": 0,
+      "2023-07-26": 8,
       "2023-01-29": 16
     }
   },
