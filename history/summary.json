@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/brad.party.ico",
     "slug": "brad-party-redirect",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 279,
     "timeDay": 196,
     "timeWeek": 188,
     "timeMonth": 261,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2023-07-26": 9
+      "2023-07-26": 20
     }
   },
   {
@@ -78,11 +78,11 @@
     "url": "https://parbs.co",
     "icon": "https://icons.duckduckgo.com/ip3/parbs.co.ico",
     "slug": "parbs-co-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
     "timeDay": 90,
@@ -90,7 +90,7 @@
     "timeMonth": 114,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2023-07-26": 9
+      "2023-07-26": 0
     }
   },
   {
@@ -194,9 +194,9 @@
     "slug": "gifsb-in",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 161,
     "timeDay": 170,
@@ -204,7 +204,6 @@
     "timeMonth": 158,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2023-07-26": 8,
       "2023-01-29": 16
     }
   },
