@@ -22,19 +22,19 @@
     "url": "https://brad.party",
     "icon": "https://icons.duckduckgo.com/ip3/brad.party.ico",
     "slug": "brad-party-redirect",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.01%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
-    "time": 279,
-    "timeDay": 258,
-    "timeWeek": 205,
-    "timeMonth": 263,
-    "timeYear": 279,
+    "time": 280,
+    "timeDay": 383,
+    "timeWeek": 252,
+    "timeMonth": 274,
+    "timeYear": 280,
     "dailyMinutesDown": {
-      "2023-07-26": 28
+      "2023-07-26": 46
     }
   },
   {
