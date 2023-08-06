@@ -154,19 +154,19 @@
     "url": "https://status.brrad.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.brrad.com.ico",
     "slug": "status-brrad-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 168,
-    "timeDay": 760,
-    "timeWeek": 310,
-    "timeMonth": 160,
+    "timeDay": 561,
+    "timeWeek": 294,
+    "timeMonth": 161,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2023-08-06": 0
+      "2023-08-06": 9
     }
   },
   {
