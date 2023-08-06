@@ -60,9 +60,9 @@
     "url": "https://parbs.me",
     "icon": "https://icons.duckduckgo.com/ip3/parbs.me.ico",
     "slug": "parbs-me-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 169,
     "timeMonth": 139,
     "timeYear": 141,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-06": 0
+    }
   },
   {
     "name": "parbs.co (redirect)",
@@ -156,18 +158,16 @@
     "slug": "status-brrad-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 168,
     "timeDay": 561,
     "timeWeek": 294,
     "timeMonth": 161,
     "timeYear": 168,
-    "dailyMinutesDown": {
-      "2023-08-06": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "butts.tech",
