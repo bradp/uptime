@@ -256,9 +256,9 @@
     "url": "https://sax.cat",
     "icon": "https://sax.cat/favicon-32x32.png",
     "slug": "sax-cat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -267,7 +267,9 @@
     "timeWeek": 246,
     "timeMonth": 224,
     "timeYear": 296,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-18": 0
+    }
   },
   {
     "name": "pears.cloud",
