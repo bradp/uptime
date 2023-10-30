@@ -1,7 +1,7 @@
 url: https://pears.cloud
-status: down
-code: 500
-responseTime: 141
-lastUpdated: 2023-10-30T19:58:25.460Z
+status: up
+code: 200
+responseTime: 160
+lastUpdated: 2023-10-30T20:20:30.216Z
 startTime: 2021-01-01T02:34:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
