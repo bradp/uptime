@@ -25,26 +25,9 @@ sites:
     url: https://brrad.com/w
   - name: status.brrad.com
     url: https://status.brrad.com
-  - name: butts.tech
-    url: https://butts.tech
-    icon: https://butts.tech/favicon-32x32.png
-  - name: gifsb.in
-    url: https://gifsb.in
-    icon: https://gifsb.in/favicon.ico
-  - name: horror.watch
-    url: https://horror.watch
-    icon: https://horror.watch/favicon-32x32.png
-  - name: isitsnowinginmilwaukee.com
-    url: https://isitsnowinginmilwaukee.com
-    icon: https://isitsnowinginmilwaukee.com/favicon-32x32.png
   - name: sax.cat
     url: https://sax.cat
     icon: https://sax.cat/favicon-32x32.png
-  - name: pears.cloud
-    url: https://pears.cloud
-    icon: https://pears.cloud/favicon-32x32.png
-  - name: last.sh
-    url: https://last.sh
   - name: mouse.rip
     url: https://mouse.rip
     icon: https://mouse.rip/favicon.ico
