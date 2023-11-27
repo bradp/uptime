@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 157,
-    "timeDay": 135,
-    "timeWeek": 156,
-    "timeMonth": 144,
+    "timeDay": 126,
+    "timeWeek": 151,
+    "timeMonth": 143,
     "timeYear": 150,
     "dailyMinutesDown": {
       "2023-10-30": 22
@@ -31,10 +31,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 276,
-    "timeDay": 210,
-    "timeWeek": 201,
-    "timeMonth": 235,
-    "timeYear": 276,
+    "timeDay": 287,
+    "timeWeek": 221,
+    "timeMonth": 239,
+    "timeYear": 277,
     "dailyMinutesDown": {
       "2023-10-30": 22,
       "2023-07-26": 46
@@ -52,9 +52,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 178,
-    "timeWeek": 225,
-    "timeMonth": 208,
+    "timeDay": 214,
+    "timeWeek": 228,
+    "timeMonth": 209,
     "timeYear": 209,
     "dailyMinutesDown": {
       "2023-10-30": 22
@@ -72,10 +72,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.86%",
     "time": 145,
-    "timeDay": 311,
-    "timeWeek": 120,
-    "timeMonth": 130,
-    "timeYear": 146,
+    "timeDay": 206,
+    "timeWeek": 117,
+    "timeMonth": 129,
+    "timeYear": 145,
     "dailyMinutesDown": {
       "2023-10-30": 22,
       "2023-08-07": 606,
@@ -93,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 134,
-    "timeDay": 66,
+    "time": 133,
+    "timeDay": 73,
     "timeWeek": 84,
-    "timeMonth": 108,
-    "timeYear": 134,
+    "timeMonth": 107,
+    "timeYear": 133,
     "dailyMinutesDown": {
       "2023-10-30": 22
     }
@@ -114,9 +114,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 302,
-    "timeDay": 498,
-    "timeWeek": 293,
-    "timeMonth": 349,
+    "timeDay": 415,
+    "timeWeek": 298,
+    "timeMonth": 348,
     "timeYear": 306,
     "dailyMinutesDown": {
       "2023-10-30": 31
@@ -133,10 +133,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 149,
-    "timeDay": 139,
-    "timeWeek": 114,
-    "timeMonth": 128,
+    "time": 148,
+    "timeDay": 111,
+    "timeWeek": 110,
+    "timeMonth": 127,
     "timeYear": 148,
     "dailyMinutesDown": {
       "2023-01-29": 21
@@ -154,9 +154,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 172,
-    "timeWeek": 89,
-    "timeMonth": 95,
+    "timeDay": 123,
+    "timeWeek": 87,
+    "timeMonth": 94,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2023-01-29": 19
@@ -174,95 +174,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 156,
-    "timeDay": 197,
+    "timeDay": 156,
     "timeWeek": 120,
     "timeMonth": 125,
     "timeYear": 157,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "butts.tech",
-    "url": "https://butts.tech",
-    "icon": "https://butts.tech/favicon-32x32.png",
-    "slug": "butts-tech",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
-    "time": 150,
-    "timeDay": 74,
-    "timeWeek": 116,
-    "timeMonth": 111,
-    "timeYear": 150,
-    "dailyMinutesDown": {
-      "2023-10-30": 22
-    }
-  },
-  {
-    "name": "gifsb.in",
-    "url": "https://gifsb.in",
-    "icon": "https://gifsb.in/favicon.ico",
-    "slug": "gifsb-in",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 151,
-    "timeDay": 140,
-    "timeWeek": 96,
-    "timeMonth": 122,
-    "timeYear": 150,
-    "dailyMinutesDown": {
-      "2023-01-29": 16
-    }
-  },
-  {
-    "name": "horror.watch",
-    "url": "https://horror.watch",
-    "icon": "https://horror.watch/favicon-32x32.png",
-    "slug": "horror-watch",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
-    "time": 304,
-    "timeDay": 407,
-    "timeWeek": 266,
-    "timeMonth": 248,
-    "timeYear": 292,
-    "dailyMinutesDown": {
-      "2023-10-30": 22
-    }
-  },
-  {
-    "name": "isitsnowinginmilwaukee.com",
-    "url": "https://isitsnowinginmilwaukee.com",
-    "icon": "https://isitsnowinginmilwaukee.com/favicon-32x32.png",
-    "slug": "isitsnowinginmilwaukee-com",
-    "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "55.02%",
-    "uptimeWeek": "89.17%",
-    "uptimeMonth": "97.51%",
-    "uptimeYear": "99.72%",
-    "time": 322,
-    "timeDay": 244,
-    "timeWeek": 241,
-    "timeMonth": 281,
-    "timeYear": 340,
-    "dailyMinutesDown": {
-      "2023-11-27": 385,
-      "2023-11-26": 708,
-      "2023-02-22": 18,
-      "2023-02-20": 36,
-      "2022-11-29": 71
-    }
   },
   {
     "name": "sax.cat",
@@ -274,14 +190,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "72.17%",
+    "uptimeYear": "72.16%",
     "time": 295,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2023-11-27": 920,
+      "2023-11-27": 968,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
       "2023-11-24": 1440,
@@ -386,44 +302,6 @@
     }
   },
   {
-    "name": "pears.cloud",
-    "url": "https://pears.cloud",
-    "icon": "https://pears.cloud/favicon-32x32.png",
-    "slug": "pears-cloud",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
-    "time": 140,
-    "timeDay": 82,
-    "timeWeek": 101,
-    "timeMonth": 129,
-    "timeYear": 132,
-    "dailyMinutesDown": {
-      "2023-10-30": 22
-    }
-  },
-  {
-    "name": "last.sh",
-    "url": "https://last.sh",
-    "icon": "https://icons.duckduckgo.com/ip3/last.sh.ico",
-    "slug": "last-sh",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 209,
-    "timeWeek": 156,
-    "timeMonth": 159,
-    "timeYear": 177,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "mouse.rip",
     "url": "https://mouse.rip",
     "icon": "https://mouse.rip/favicon.ico",
@@ -434,10 +312,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 366,
-    "timeDay": 569,
-    "timeWeek": 349,
-    "timeMonth": 364,
+    "time": 365,
+    "timeDay": 408,
+    "timeWeek": 336,
+    "timeMonth": 361,
     "timeYear": 365,
     "dailyMinutesDown": {
       "2023-10-30": 22
@@ -455,8 +333,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 47,
-    "timeDay": 46,
-    "timeWeek": 28,
+    "timeDay": 45,
+    "timeWeek": 30,
     "timeMonth": 39,
     "timeYear": 47,
     "dailyMinutesDown": {}
@@ -473,10 +351,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 338,
-    "timeDay": 404,
-    "timeWeek": 345,
-    "timeMonth": 294,
-    "timeYear": 338,
+    "timeDay": 272,
+    "timeWeek": 320,
+    "timeMonth": 290,
+    "timeYear": 337,
     "dailyMinutesDown": {
       "2023-10-30": 22
     }
@@ -493,9 +371,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 320,
-    "timeDay": 464,
-    "timeWeek": 298,
-    "timeMonth": 280,
+    "timeDay": 289,
+    "timeWeek": 275,
+    "timeMonth": 275,
     "timeYear": 317,
     "dailyMinutesDown": {
       "2023-10-30": 22
@@ -513,9 +391,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 373,
-    "timeDay": 449,
-    "timeWeek": 413,
-    "timeMonth": 431,
+    "timeDay": 428,
+    "timeWeek": 412,
+    "timeMonth": 430,
     "timeYear": 370,
     "dailyMinutesDown": {}
   },
@@ -531,9 +409,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 253,
-    "timeDay": 284,
-    "timeWeek": 287,
-    "timeMonth": 275,
+    "timeDay": 290,
+    "timeWeek": 288,
+    "timeMonth": 276,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2023-10-30": 22
