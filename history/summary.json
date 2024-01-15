@@ -6,17 +6,16 @@
     "slug": "bradparbs-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 156,
     "timeDay": 116,
     "timeWeek": 123,
     "timeMonth": 155,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2024-01-14": 9,
       "2023-10-30": 22
     }
   },
@@ -27,9 +26,9 @@
     "slug": "brad-party-redirect",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 272,
     "timeDay": 216,
@@ -37,7 +36,6 @@
     "timeMonth": 221,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2024-01-14": 8,
       "2023-10-30": 22,
       "2023-07-26": 46
     }
@@ -49,17 +47,16 @@
     "slug": "parbs-org-redirect",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 211,
     "timeDay": 214,
     "timeWeek": 188,
     "timeMonth": 215,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2024-01-14": 8,
       "2023-10-30": 22
     }
   },
@@ -200,7 +197,8 @@
     "timeMonth": 0,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2024-01-14": 1433,
+      "2024-01-15": 4,
+      "2024-01-14": 1440,
       "2024-01-13": 1440,
       "2024-01-12": 1440,
       "2024-01-11": 1440,
