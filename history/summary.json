@@ -120,7 +120,7 @@
     "timeMonth": 0,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2024-06-20": 1128,
+      "2024-06-20": 1137,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
       "2024-06-17": 1440,
@@ -260,7 +260,7 @@
     "timeMonth": 0,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-06-20": 1128,
+      "2024-06-20": 1137,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
       "2024-06-17": 1440,
@@ -615,17 +615,16 @@
     "slug": "guide-mouse-rip",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 334,
     "timeDay": 539,
     "timeWeek": 489,
     "timeMonth": 397,
     "timeYear": 334,
     "dailyMinutesDown": {
-      "2024-06-20": 9,
       "2023-10-30": 22
     }
   },
@@ -654,19 +653,19 @@
     "url": "https://items.mouse.rip",
     "icon": "https://icons.duckduckgo.com/ip3/items.mouse.rip.ico",
     "slug": "items-mouse-rip",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 378,
-    "timeDay": 647,
+    "time": 379,
+    "timeDay": 547,
     "timeWeek": 449,
-    "timeMonth": 444,
-    "timeYear": 380,
+    "timeMonth": 445,
+    "timeYear": 381,
     "dailyMinutesDown": {
-      "2024-06-20": 9
+      "2024-06-20": 17
     }
   },
   {
