@@ -16,18 +16,12 @@ sites:
     url: https://parbs.me
   - name: parbs.co (redirect)
     url: https://parbs.co
-  - name: brad.cash
-    url: https://brad.cash
-    icon: https://brad.cash/favicon-32x32.png
   - name: brrad.com (redirect)
     url: https://brrad.com
   - name: brrad.com/w
     url: https://brrad.com/w
   - name: status.brrad.com
     url: https://status.brrad.com
-  - name: sax.cat
-    url: https://sax.cat
-    icon: https://sax.cat/favicon-32x32.png
   - name: mouse.rip
     url: https://mouse.rip
     icon: https://mouse.rip/favicon.ico
