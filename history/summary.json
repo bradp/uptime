@@ -67,9 +67,9 @@
     "url": "https://parbs.me",
     "icon": "https://icons.duckduckgo.com/ip3/parbs.me.ico",
     "slug": "parbs-me-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
@@ -79,6 +79,7 @@
     "timeMonth": 216,
     "timeYear": 155,
     "dailyMinutesDown": {
+      "2024-08-06": 0,
       "2024-07-05": 17,
       "2023-10-30": 22
     }
@@ -156,7 +157,7 @@
     "timeDay": 154,
     "timeWeek": 112,
     "timeMonth": 126,
-    "timeYear": 130,
+    "timeYear": 127,
     "dailyMinutesDown": {}
   },
   {
