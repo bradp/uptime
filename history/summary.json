@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 451,
-    "timeWeek": 343,
+    "timeDay": 377,
+    "timeWeek": 352,
     "timeMonth": 356,
-    "timeYear": 224,
+    "timeYear": 225,
     "dailyMinutesDown": {
       "2024-07-05": 17
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 285,
-    "timeDay": 338,
-    "timeWeek": 298,
-    "timeMonth": 329,
+    "timeDay": 340,
+    "timeWeek": 294,
+    "timeMonth": 336,
     "timeYear": 290,
     "dailyMinutesDown": {
       "2024-07-05": 17
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 149,
-    "timeWeek": 247,
-    "timeMonth": 267,
+    "timeDay": 313,
+    "timeWeek": 252,
+    "timeMonth": 270,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2024-07-05": 17
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 166,
-    "timeDay": 184,
-    "timeWeek": 198,
-    "timeMonth": 207,
-    "timeYear": 168,
+    "time": 167,
+    "timeDay": 344,
+    "timeWeek": 207,
+    "timeMonth": 211,
+    "timeYear": 169,
     "dailyMinutesDown": {
       "2024-07-05": 17
     }
@@ -91,8 +91,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 125,
-    "timeDay": 154,
-    "timeWeek": 130,
+    "timeDay": 153,
+    "timeWeek": 137,
     "timeMonth": 139,
     "timeYear": 129,
     "dailyMinutesDown": {
@@ -112,9 +112,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 138,
+    "timeDay": 140,
     "timeWeek": 146,
-    "timeMonth": 152,
+    "timeMonth": 150,
     "timeYear": 142,
     "dailyMinutesDown": {}
   },
@@ -130,9 +130,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 104,
-    "timeWeek": 101,
-    "timeMonth": 116,
+    "timeDay": 84,
+    "timeWeek": 106,
+    "timeMonth": 113,
     "timeYear": 110,
     "dailyMinutesDown": {}
   },
@@ -148,9 +148,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 95,
-    "timeWeek": 142,
-    "timeMonth": 158,
+    "timeDay": 81,
+    "timeWeek": 146,
+    "timeMonth": 155,
     "timeYear": 130,
     "dailyMinutesDown": {}
   },
@@ -166,8 +166,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 383,
-    "timeDay": 674,
-    "timeWeek": 380,
+    "timeDay": 420,
+    "timeWeek": 390,
     "timeMonth": 378,
     "timeYear": 385,
     "dailyMinutesDown": {}
@@ -184,8 +184,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 38,
-    "timeDay": 16,
-    "timeWeek": 22,
+    "timeDay": 22,
+    "timeWeek": 23,
     "timeMonth": 28,
     "timeYear": 38,
     "dailyMinutesDown": {}
@@ -202,9 +202,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 341,
-    "timeDay": 128,
-    "timeWeek": 286,
-    "timeMonth": 328,
+    "timeDay": 319,
+    "timeWeek": 314,
+    "timeMonth": 326,
     "timeYear": 343,
     "dailyMinutesDown": {}
   },
@@ -220,10 +220,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 329,
-    "timeDay": 508,
-    "timeWeek": 318,
-    "timeMonth": 344,
-    "timeYear": 346,
+    "timeDay": 526,
+    "timeWeek": 363,
+    "timeMonth": 347,
+    "timeYear": 347,
     "dailyMinutesDown": {}
   },
   {
@@ -237,10 +237,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 396,
-    "timeDay": 617,
-    "timeWeek": 505,
-    "timeMonth": 446,
+    "time": 395,
+    "timeDay": 322,
+    "timeWeek": 482,
+    "timeMonth": 448,
     "timeYear": 415,
     "dailyMinutesDown": {
       "2024-06-20": 17
@@ -258,8 +258,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
-    "timeDay": 259,
-    "timeWeek": 331,
+    "timeDay": 288,
+    "timeWeek": 329,
     "timeMonth": 328,
     "timeYear": 310,
     "dailyMinutesDown": {}
