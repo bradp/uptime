@@ -12,9 +12,9 @@
     "uptimeYear": "100.00%",
     "time": 238,
     "timeDay": 257,
-    "timeWeek": 336,
-    "timeMonth": 286,
-    "timeYear": 268,
+    "timeWeek": 352,
+    "timeMonth": 288,
+    "timeYear": 269,
     "dailyMinutesDown": {
       "2024-07-05": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 297,
-    "timeDay": 331,
-    "timeWeek": 324,
-    "timeMonth": 331,
-    "timeYear": 315,
+    "time": 296,
+    "timeDay": 334,
+    "timeWeek": 298,
+    "timeMonth": 333,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2024-07-05": 17
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 229,
-    "timeDay": 298,
-    "timeWeek": 246,
-    "timeMonth": 249,
+    "timeDay": 236,
+    "timeWeek": 251,
+    "timeMonth": 246,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2024-07-05": 17
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 234,
-    "timeWeek": 189,
-    "timeMonth": 188,
+    "timeDay": 110,
+    "timeWeek": 178,
+    "timeMonth": 187,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2024-07-05": 17
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 130,
-    "timeDay": 117,
-    "timeWeek": 120,
-    "timeMonth": 139,
+    "timeDay": 81,
+    "timeWeek": 119,
+    "timeMonth": 138,
     "timeYear": 140,
     "dailyMinutesDown": {
       "2024-07-05": 17,
@@ -112,8 +112,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 189,
-    "timeWeek": 168,
+    "timeDay": 131,
+    "timeWeek": 162,
     "timeMonth": 156,
     "timeYear": 148,
     "dailyMinutesDown": {}
@@ -130,8 +130,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 66,
-    "timeWeek": 100,
+    "timeDay": 89,
+    "timeWeek": 89,
     "timeMonth": 106,
     "timeYear": 111,
     "dailyMinutesDown": {}
@@ -148,10 +148,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 134,
-    "timeDay": 83,
-    "timeWeek": 180,
-    "timeMonth": 150,
-    "timeYear": 140,
+    "timeDay": 154,
+    "timeWeek": 171,
+    "timeMonth": 145,
+    "timeYear": 141,
     "dailyMinutesDown": {}
   },
   {
@@ -166,9 +166,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 380,
-    "timeDay": 327,
-    "timeWeek": 395,
-    "timeMonth": 371,
+    "timeDay": 448,
+    "timeWeek": 406,
+    "timeMonth": 369,
     "timeYear": 379,
     "dailyMinutesDown": {}
   },
@@ -184,7 +184,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 36,
-    "timeDay": 15,
+    "timeDay": 19,
     "timeWeek": 52,
     "timeMonth": 32,
     "timeYear": 34,
@@ -202,9 +202,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 341,
-    "timeDay": 340,
-    "timeWeek": 369,
-    "timeMonth": 356,
+    "timeDay": 501,
+    "timeWeek": 399,
+    "timeMonth": 357,
     "timeYear": 351,
     "dailyMinutesDown": {}
   },
@@ -220,10 +220,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 345,
-    "timeDay": 104,
-    "timeWeek": 333,
-    "timeMonth": 347,
-    "timeYear": 348,
+    "timeDay": 559,
+    "timeWeek": 373,
+    "timeMonth": 353,
+    "timeYear": 349,
     "dailyMinutesDown": {}
   },
   {
@@ -238,10 +238,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 409,
-    "timeDay": 175,
-    "timeWeek": 378,
-    "timeMonth": 405,
-    "timeYear": 421,
+    "timeDay": 206,
+    "timeWeek": 352,
+    "timeMonth": 402,
+    "timeYear": 420,
     "dailyMinutesDown": {
       "2024-06-20": 17
     }
@@ -258,9 +258,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 309,
-    "timeDay": 354,
-    "timeWeek": 321,
-    "timeMonth": 327,
+    "timeDay": 311,
+    "timeWeek": 330,
+    "timeMonth": 324,
     "timeYear": 330,
     "dailyMinutesDown": {}
   }
