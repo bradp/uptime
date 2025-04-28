@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 268,
-    "timeDay": 370,
-    "timeWeek": 313,
+    "timeDay": 252,
+    "timeWeek": 287,
     "timeMonth": 298,
-    "timeYear": 305,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2024-07-05": 17
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 314,
-    "timeDay": 385,
-    "timeWeek": 419,
-    "timeMonth": 370,
-    "timeYear": 330,
+    "timeDay": 512,
+    "timeWeek": 397,
+    "timeMonth": 374,
+    "timeYear": 331,
     "dailyMinutesDown": {
       "2024-07-05": 17
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 294,
-    "timeWeek": 313,
-    "timeMonth": 270,
+    "timeDay": 287,
+    "timeWeek": 252,
+    "timeMonth": 273,
     "timeYear": 246,
     "dailyMinutesDown": {
       "2024-07-05": 17
@@ -70,10 +70,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 213,
-    "timeWeek": 258,
-    "timeMonth": 229,
+    "time": 188,
+    "timeDay": 124,
+    "timeWeek": 197,
+    "timeMonth": 227,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2024-07-05": 17
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 141,
-    "timeWeek": 146,
-    "timeMonth": 148,
+    "timeDay": 110,
+    "timeWeek": 130,
+    "timeMonth": 146,
     "timeYear": 144,
     "dailyMinutesDown": {
       "2024-07-05": 17
@@ -104,36 +104,40 @@
     "url": "https://brrad.com",
     "icon": "https://icons.duckduckgo.com/ip3/brrad.com.ico",
     "slug": "brrad-com-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 193,
-    "timeWeek": 233,
-    "timeMonth": 176,
+    "timeDay": 121,
+    "timeWeek": 162,
+    "timeMonth": 174,
     "timeYear": 151,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-28": 0
+    }
   },
   {
     "name": "brrad.com/w",
     "url": "https://brrad.com/w",
     "icon": "https://icons.duckduckgo.com/ip3/brrad.com.ico",
     "slug": "brrad-com-w",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 63,
-    "timeWeek": 146,
-    "timeMonth": 115,
-    "timeYear": 109,
-    "dailyMinutesDown": {}
+    "timeDay": 38,
+    "timeWeek": 79,
+    "timeMonth": 112,
+    "timeYear": 108,
+    "dailyMinutesDown": {
+      "2025-04-28": 0
+    }
   },
   {
     "name": "status.brrad.com",
@@ -147,8 +151,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 136,
-    "timeWeek": 161,
+    "timeDay": 162,
+    "timeWeek": 146,
     "timeMonth": 155,
     "timeYear": 144,
     "dailyMinutesDown": {}
@@ -165,9 +169,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 386,
-    "timeDay": 500,
-    "timeWeek": 568,
-    "timeMonth": 432,
+    "timeDay": 417,
+    "timeWeek": 469,
+    "timeMonth": 431,
     "timeYear": 394,
     "dailyMinutesDown": {}
   },
@@ -183,9 +187,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 37,
-    "timeDay": 109,
-    "timeWeek": 83,
-    "timeMonth": 56,
+    "timeDay": 102,
+    "timeWeek": 73,
+    "timeMonth": 58,
     "timeYear": 33,
     "dailyMinutesDown": {}
   },
@@ -200,10 +204,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 353,
-    "timeDay": 382,
-    "timeWeek": 485,
-    "timeMonth": 400,
+    "time": 354,
+    "timeDay": 284,
+    "timeWeek": 401,
+    "timeMonth": 405,
     "timeYear": 363,
     "dailyMinutesDown": {}
   },
@@ -218,10 +222,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 354,
-    "timeDay": 309,
-    "timeWeek": 466,
-    "timeMonth": 440,
+    "time": 355,
+    "timeDay": 557,
+    "timeWeek": 412,
+    "timeMonth": 450,
     "timeYear": 357,
     "dailyMinutesDown": {}
   },
@@ -236,10 +240,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 414,
-    "timeDay": 328,
-    "timeWeek": 442,
-    "timeMonth": 459,
+    "time": 415,
+    "timeDay": 287,
+    "timeWeek": 375,
+    "timeMonth": 457,
     "timeYear": 421,
     "dailyMinutesDown": {
       "2024-06-20": 17
@@ -256,10 +260,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 322,
-    "timeDay": 381,
-    "timeWeek": 473,
-    "timeMonth": 377,
+    "time": 323,
+    "timeDay": 387,
+    "timeWeek": 362,
+    "timeMonth": 383,
     "timeYear": 330,
     "dailyMinutesDown": {}
   }
