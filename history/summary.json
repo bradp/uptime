@@ -106,18 +106,16 @@
     "slug": "brrad-com-redirect",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
     "timeDay": 145,
     "timeWeek": 165,
     "timeMonth": 175,
     "timeYear": 151,
-    "dailyMinutesDown": {
-      "2025-04-28": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "brrad.com/w",
@@ -126,18 +124,16 @@
     "slug": "brrad-com-w",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
     "timeDay": 81,
     "timeWeek": 89,
     "timeMonth": 114,
     "timeYear": 108,
-    "dailyMinutesDown": {
-      "2025-04-28": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "status.brrad.com",
