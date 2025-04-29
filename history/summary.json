@@ -104,19 +104,19 @@
     "url": "https://brrad.com",
     "icon": "https://icons.duckduckgo.com/ip3/brrad.com.ico",
     "slug": "brrad-com-redirect",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 121,
-    "timeWeek": 162,
-    "timeMonth": 174,
+    "timeDay": 145,
+    "timeWeek": 165,
+    "timeMonth": 175,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-04-28": 0
+      "2025-04-28": 9
     }
   },
   {
@@ -124,19 +124,19 @@
     "url": "https://brrad.com/w",
     "icon": "https://icons.duckduckgo.com/ip3/brrad.com.ico",
     "slug": "brrad-com-w",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 38,
-    "timeWeek": 79,
-    "timeMonth": 112,
+    "timeDay": 81,
+    "timeWeek": 89,
+    "timeMonth": 114,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2025-04-28": 0
+      "2025-04-28": 9
     }
   },
   {
