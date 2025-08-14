@@ -4,19 +4,19 @@
     "url": "https://bradparbs.com",
     "icon": "https://bradparbs.com/images/icons/favicon-32x32.png",
     "slug": "bradparbs-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 321,
-    "timeDay": 3175,
-    "timeWeek": 1024,
-    "timeMonth": 512,
+    "timeDay": 2213,
+    "timeWeek": 943,
+    "timeMonth": 506,
     "timeYear": 355,
     "dailyMinutesDown": {
-      "2025-08-14": 2
+      "2025-08-14": 13
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://brad.party",
     "icon": "https://icons.duckduckgo.com/ip3/brad.party.ico",
     "slug": "brad-party-redirect",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 346,
-    "timeDay": 3577,
-    "timeWeek": 1075,
-    "timeMonth": 551,
+    "timeDay": 2483,
+    "timeWeek": 989,
+    "timeMonth": 543,
     "timeYear": 359,
     "dailyMinutesDown": {
-      "2025-08-14": 1
+      "2025-08-14": 13
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://parbs.org",
     "icon": "https://icons.duckduckgo.com/ip3/parbs.org.ico",
     "slug": "parbs-org-redirect",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 293,
-    "timeDay": 11206,
-    "timeWeek": 3014,
-    "timeMonth": 963,
+    "timeDay": 7556,
+    "timeWeek": 2708,
+    "timeMonth": 942,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2025-08-14": 1
+      "2025-08-14": 12
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://parbs.me",
     "icon": "https://icons.duckduckgo.com/ip3/parbs.me.ico",
     "slug": "parbs-me-redirect",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 228,
-    "timeDay": 3560,
-    "timeWeek": 1066,
-    "timeMonth": 447,
+    "timeDay": 2429,
+    "timeWeek": 966,
+    "timeMonth": 438,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2025-08-14": 0
+      "2025-08-14": 12
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://parbs.co",
     "icon": "https://icons.duckduckgo.com/ip3/parbs.co.ico",
     "slug": "parbs-co-redirect",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 926,
-    "timeWeek": 316,
-    "timeMonth": 208,
+    "time": 146,
+    "timeDay": 650,
+    "timeWeek": 292,
+    "timeMonth": 205,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2025-08-14": 0
+      "2025-08-14": 12
     }
   },
   {
