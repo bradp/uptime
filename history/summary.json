@@ -6,18 +6,16 @@
     "slug": "bradparbs-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 321,
-    "timeDay": 2213,
-    "timeWeek": 943,
-    "timeMonth": 506,
+    "time": 322,
+    "timeDay": 2175,
+    "timeWeek": 985,
+    "timeMonth": 513,
     "timeYear": 355,
-    "dailyMinutesDown": {
-      "2025-08-14": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "brad.party (redirect)",
@@ -26,18 +24,16 @@
     "slug": "brad-party-redirect",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 346,
-    "timeDay": 2483,
-    "timeWeek": 989,
-    "timeMonth": 543,
-    "timeYear": 359,
-    "dailyMinutesDown": {
-      "2025-08-14": 13
-    }
+    "time": 347,
+    "timeDay": 2394,
+    "timeWeek": 1036,
+    "timeMonth": 542,
+    "timeYear": 360,
+    "dailyMinutesDown": {}
   },
   {
     "name": "parbs.org (redirect)",
@@ -46,18 +42,16 @@
     "slug": "parbs-org-redirect",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 7556,
-    "timeWeek": 2708,
-    "timeMonth": 942,
+    "time": 294,
+    "timeDay": 7414,
+    "timeWeek": 2717,
+    "timeMonth": 943,
     "timeYear": 315,
-    "dailyMinutesDown": {
-      "2025-08-14": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "parbs.me (redirect)",
@@ -66,18 +60,16 @@
     "slug": "parbs-me-redirect",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 2429,
-    "timeWeek": 966,
-    "timeMonth": 438,
+    "time": 229,
+    "timeDay": 2353,
+    "timeWeek": 995,
+    "timeMonth": 448,
     "timeYear": 242,
-    "dailyMinutesDown": {
-      "2025-08-14": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "parbs.co (redirect)",
@@ -86,18 +78,16 @@
     "slug": "parbs-co-redirect",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 146,
-    "timeDay": 650,
-    "timeWeek": 292,
-    "timeMonth": 205,
+    "time": 147,
+    "timeDay": 515,
+    "timeWeek": 309,
+    "timeMonth": 207,
     "timeYear": 144,
-    "dailyMinutesDown": {
-      "2025-08-14": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "brrad.com (redirect)",
@@ -110,10 +100,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 162,
-    "timeDay": 293,
-    "timeWeek": 743,
-    "timeMonth": 316,
+    "time": 163,
+    "timeDay": 294,
+    "timeWeek": 766,
+    "timeMonth": 321,
     "timeYear": 170,
     "dailyMinutesDown": {
       "2025-05-25": 30
@@ -131,8 +121,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 109,
-    "timeDay": 226,
-    "timeWeek": 119,
+    "timeDay": 162,
+    "timeWeek": 132,
     "timeMonth": 121,
     "timeYear": 107,
     "dailyMinutesDown": {
@@ -150,10 +140,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 153,
-    "timeDay": 208,
-    "timeWeek": 154,
-    "timeMonth": 147,
+    "time": 154,
+    "timeDay": 181,
+    "timeWeek": 155,
+    "timeMonth": 148,
     "timeYear": 161,
     "dailyMinutesDown": {}
   },
@@ -169,10 +159,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 410,
-    "timeDay": 1083,
-    "timeWeek": 447,
-    "timeMonth": 405,
-    "timeYear": 417,
+    "timeDay": 392,
+    "timeWeek": 443,
+    "timeMonth": 401,
+    "timeYear": 416,
     "dailyMinutesDown": {}
   },
   {
@@ -187,9 +177,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 38,
-    "timeDay": 187,
-    "timeWeek": 76,
-    "timeMonth": 59,
+    "timeDay": 111,
+    "timeWeek": 82,
+    "timeMonth": 61,
     "timeYear": 37,
     "dailyMinutesDown": {}
   },
@@ -204,11 +194,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 374,
-    "timeDay": 809,
-    "timeWeek": 442,
-    "timeMonth": 435,
-    "timeYear": 376,
+    "time": 375,
+    "timeDay": 551,
+    "timeWeek": 451,
+    "timeMonth": 437,
+    "timeYear": 377,
     "dailyMinutesDown": {}
   },
   {
@@ -223,9 +213,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 369,
-    "timeDay": 626,
-    "timeWeek": 358,
-    "timeMonth": 397,
+    "timeDay": 469,
+    "timeWeek": 349,
+    "timeMonth": 400,
     "timeYear": 370,
     "dailyMinutesDown": {}
   },
@@ -241,8 +231,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 427,
-    "timeDay": 965,
-    "timeWeek": 511,
+    "timeDay": 391,
+    "timeWeek": 500,
     "timeMonth": 506,
     "timeYear": 424,
     "dailyMinutesDown": {}
@@ -258,11 +248,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 336,
-    "timeDay": 696,
-    "timeWeek": 426,
-    "timeMonth": 412,
-    "timeYear": 340,
+    "time": 338,
+    "timeDay": 1113,
+    "timeWeek": 540,
+    "timeMonth": 437,
+    "timeYear": 342,
     "dailyMinutesDown": {}
   }
 ]
