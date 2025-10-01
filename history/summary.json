@@ -170,18 +170,20 @@
     "url": "https://mouse.rip/favicon.ico",
     "icon": "https://icons.duckduckgo.com/ip3/mouse.rip.ico",
     "slug": "api-mouse-rip",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 40,
-    "timeDay": 278,
-    "timeWeek": 113,
-    "timeMonth": 78,
-    "timeYear": 43,
-    "dailyMinutesDown": {}
+    "timeDay": 241,
+    "timeWeek": 125,
+    "timeMonth": 82,
+    "timeYear": 44,
+    "dailyMinutesDown": {
+      "2025-10-01": 0
+    }
   },
   {
     "name": "guide.mouse.rip",
