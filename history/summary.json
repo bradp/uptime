@@ -206,19 +206,19 @@
     "url": "https://guide-preview.mouse.rip",
     "icon": "https://icons.duckduckgo.com/ip3/guide-preview.mouse.rip.ico",
     "slug": "guide-preview-mouse-rip",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 361,
-    "timeDay": 636,
-    "timeWeek": 359,
-    "timeMonth": 348,
+    "time": 362,
+    "timeDay": 450,
+    "timeWeek": 347,
+    "timeMonth": 345,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2025-10-02": 0
+      "2025-10-02": 12
     }
   },
   {
