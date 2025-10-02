@@ -76,18 +76,20 @@
     "url": "https://parbs.co",
     "icon": "https://icons.duckduckgo.com/ip3/parbs.co.ico",
     "slug": "parbs-co-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 72,
-    "timeWeek": 131,
-    "timeMonth": 164,
+    "timeDay": 221,
+    "timeWeek": 161,
+    "timeMonth": 171,
     "timeYear": 151,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-02": 0
+    }
   },
   {
     "name": "brrad.com (redirect)",
@@ -177,7 +179,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 40,
-    "timeDay": 94,
+    "timeDay": 26,
     "timeWeek": 113,
     "timeMonth": 80,
     "timeYear": 44,
