@@ -208,18 +208,16 @@
     "slug": "guide-preview-mouse-rip",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 362,
     "timeDay": 450,
     "timeWeek": 347,
     "timeMonth": 345,
     "timeYear": 374,
-    "dailyMinutesDown": {
-      "2025-10-02": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "items.mouse.rip",
