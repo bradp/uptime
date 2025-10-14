@@ -1,7 +1,7 @@
 url: https://guide-preview.mouse.rip
-status: up
-code: 200
-responseTime: 327
-lastUpdated: 2025-10-13T23:04:06.363Z
+status: down
+code: 429
+responseTime: 387
+lastUpdated: 2025-10-14T18:42:44.360Z
 startTime: 2022-11-20T00:03:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
