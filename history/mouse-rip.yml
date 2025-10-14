@@ -1,7 +1,7 @@
 url: https://mouse.rip
-status: up
-code: 200
-responseTime: 630
-lastUpdated: 2025-10-13T23:04:05.021Z
+status: down
+code: 429
+responseTime: 509
+lastUpdated: 2025-10-14T18:42:37.523Z
 startTime: 2022-10-24T21:27:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
