@@ -6,9 +6,9 @@
     "slug": "bradparbs-com",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.19%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "99.93%",
     "time": 347,
     "timeDay": 211,
@@ -16,7 +16,7 @@
     "timeMonth": 289,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2025-10-23": 38,
+      "2025-10-23": 24,
       "2025-10-15": 2,
       "2025-10-14": 318
     }
@@ -28,9 +28,9 @@
     "slug": "brad-party-redirect",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.19%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "99.93%",
     "time": 362,
     "timeDay": 528,
@@ -38,7 +38,7 @@
     "timeMonth": 398,
     "timeYear": 372,
     "dailyMinutesDown": {
-      "2025-10-23": 38,
+      "2025-10-23": 24,
       "2025-10-15": 2,
       "2025-10-14": 318
     }
@@ -49,10 +49,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/parbs.org.ico",
     "slug": "parbs-org-redirect",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.19%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "99.93%",
     "time": 316,
     "timeDay": 156,
@@ -60,7 +60,7 @@
     "timeMonth": 244,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2025-10-23": 37,
+      "2025-10-23": 23,
       "2025-10-15": 2,
       "2025-10-14": 317
     }
@@ -72,9 +72,9 @@
     "slug": "parbs-me-redirect",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.19%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "99.93%",
     "time": 238,
     "timeDay": 155,
@@ -82,7 +82,7 @@
     "timeMonth": 182,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-10-23": 38,
+      "2025-10-23": 24,
       "2025-10-15": 2,
       "2025-10-14": 317
     }
@@ -94,9 +94,9 @@
     "slug": "parbs-co-redirect",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.19%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "99.93%",
     "time": 145,
     "timeDay": 100,
@@ -104,7 +104,7 @@
     "timeMonth": 132,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2025-10-23": 38,
+      "2025-10-23": 24,
       "2025-10-15": 2,
       "2025-10-14": 317
     }
@@ -256,18 +256,19 @@
     "url": "https://items.mouse.rip",
     "icon": "https://icons.duckduckgo.com/ip3/items.mouse.rip.ico",
     "slug": "items-mouse-rip",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "99.94%",
     "time": 437,
-    "timeDay": 172,
-    "timeWeek": 387,
-    "timeMonth": 365,
+    "timeDay": 312,
+    "timeWeek": 395,
+    "timeMonth": 368,
     "timeYear": 439,
     "dailyMinutesDown": {
+      "2025-10-23": 1,
       "2025-10-15": 2,
       "2025-10-14": 317
     }
