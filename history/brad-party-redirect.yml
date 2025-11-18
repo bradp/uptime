@@ -1,7 +1,7 @@
 url: https://brad.party
-status: up
-code: 200
-responseTime: 120
-lastUpdated: 2025-11-17T23:04:19.923Z
+status: down
+code: 500
+responseTime: 337
+lastUpdated: 2025-11-18T11:35:37.617Z
 startTime: 2022-11-20T00:03:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
