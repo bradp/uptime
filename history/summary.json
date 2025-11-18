@@ -52,9 +52,9 @@
     "slug": "parbs-org-redirect",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "87.55%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "99.43%",
+    "uptimeDay": "88.16%",
+    "uptimeWeek": "98.31%",
+    "uptimeMonth": "99.45%",
     "uptimeYear": "99.89%",
     "time": 312,
     "timeDay": 166,
@@ -62,7 +62,7 @@
     "timeMonth": 198,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2025-11-18": 180,
+      "2025-11-18": 171,
       "2025-10-23": 68,
       "2025-10-15": 2,
       "2025-10-14": 317
@@ -121,9 +121,9 @@
     "slug": "brrad-com-redirect",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "88.59%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "99.62%",
+    "uptimeDay": "87.80%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "99.96%",
     "time": 182,
     "timeDay": 686,
@@ -131,7 +131,7 @@
     "timeMonth": 286,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2025-11-18": 164,
+      "2025-11-18": 175,
       "2025-05-25": 30
     }
   },
@@ -142,9 +142,9 @@
     "slug": "brrad-com-w",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "88.58%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "99.62%",
+    "uptimeDay": "87.80%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "99.96%",
     "time": 109,
     "timeDay": 111,
@@ -152,7 +152,7 @@
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2025-11-18": 164,
+      "2025-11-18": 175,
       "2025-05-25": 30
     }
   },
@@ -181,9 +181,9 @@
     "slug": "mouse-rip",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "90.01%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "90.53%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.91%",
     "time": 425,
     "timeDay": 303,
@@ -191,7 +191,7 @@
     "timeMonth": 446,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2025-11-18": 143,
+      "2025-11-18": 136,
       "2025-10-15": 2,
       "2025-10-14": 317
     }
@@ -203,9 +203,9 @@
     "slug": "api-mouse-rip",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "86.06%",
-    "uptimeWeek": "98.01%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "86.47%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "99.90%",
     "time": 40,
     "timeDay": 27,
@@ -213,7 +213,7 @@
     "timeMonth": 36,
     "timeYear": 46,
     "dailyMinutesDown": {
-      "2025-11-18": 201,
+      "2025-11-18": 195,
       "2025-10-15": 2,
       "2025-10-14": 317
     }
@@ -267,19 +267,19 @@
     "url": "https://items.mouse.rip",
     "icon": "https://icons.duckduckgo.com/ip3/items.mouse.rip.ico",
     "slug": "items-mouse-rip",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "90.11%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "99.64%",
+    "uptimeDay": "89.36%",
+    "uptimeWeek": "98.48%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.91%",
     "time": 436,
-    "timeDay": 403,
-    "timeWeek": 457,
-    "timeMonth": 396,
-    "timeYear": 436,
+    "timeDay": 425,
+    "timeWeek": 463,
+    "timeMonth": 399,
+    "timeYear": 437,
     "dailyMinutesDown": {
-      "2025-11-18": 142,
+      "2025-11-18": 153,
       "2025-10-23": 15,
       "2025-10-15": 2,
       "2025-10-14": 317
