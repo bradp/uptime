@@ -1,7 +1,7 @@
 url: https://brrad.com/w
-status: up
-code: 200
-responseTime: 161
-lastUpdated: 2025-11-18T12:24:03.903Z
+status: down
+code: 500
+responseTime: 12
+lastUpdated: 2025-11-18T12:46:15.128Z
 startTime: 2022-11-20T00:03:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
