@@ -1,7 +1,7 @@
 url: https://parbs.co
-status: up
-code: 200
-responseTime: 107
-lastUpdated: 2025-11-18T14:40:20.184Z
+status: down
+code: 500
+responseTime: 59
+lastUpdated: 2025-11-18T15:27:40.020Z
 startTime: 2022-11-20T00:03:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
