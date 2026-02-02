@@ -223,11 +223,11 @@
     "url": "https://guide.mouse.rip",
     "icon": "https://icons.duckduckgo.com/ip3/guide.mouse.rip.ico",
     "slug": "guide-mouse-rip",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.91%",
     "time": 401,
     "timeDay": 243,
@@ -235,6 +235,7 @@
     "timeMonth": 340,
     "timeYear": 425,
     "dailyMinutesDown": {
+      "2026-02-02": 3,
       "2025-11-18": 146,
       "2025-10-15": 2,
       "2025-10-14": 317
