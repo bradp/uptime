@@ -14,8 +14,6 @@ sites:
     url: https://parbs.org
   - name: parbs.me (redirect)
     url: https://parbs.me
-  - name: parbs.co (redirect)
-    url: https://parbs.co
   - name: brrad.com (redirect)
     url: https://brrad.com
   - name: brrad.com/w
