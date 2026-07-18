@@ -1,7 +1,7 @@
 url: https://status.brrad.com
-status: down
-code: 503
-responseTime: 15383
-lastUpdated: 2026-07-18T19:50:54.184Z
+status: up
+code: 200
+responseTime: 195
+lastUpdated: 2026-07-18T20:38:18.647Z
 startTime: 2022-11-20T00:03:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
