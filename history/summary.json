@@ -145,18 +145,20 @@
     "url": "https://status.brrad.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.brrad.com.ico",
     "slug": "status-brrad-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 170,
-    "timeWeek": 254,
-    "timeMonth": 175,
-    "timeYear": 171,
-    "dailyMinutesDown": {}
+    "time": 205,
+    "timeDay": 7777,
+    "timeWeek": 2145,
+    "timeMonth": 665,
+    "timeYear": 213,
+    "dailyMinutesDown": {
+      "2026-07-18": 0
+    }
   },
   {
     "name": "mouse.rip",
